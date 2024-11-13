@@ -1,0 +1,4826 @@
+[
+  {
+    "fabrication_code": "1123",
+    "name": "BANDEJA VW GOLF LD/LE - S/PIVO",
+    "old_price": 96,
+    "new_price": 345.99,
+    "percentage_increase": 260.40625,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V069",
+    "name": "TERMINAL AXIAL TOYOTA COROLA 92>99",
+    "old_price": 38,
+    "new_price": 126.99,
+    "percentage_increase": 234.18421052631578,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ALR311315",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO VW GOL/PARATI/PASSAT",
+    "old_price": 31,
+    "new_price": 99.9,
+    "percentage_increase": 222.25806451612902,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "V178",
+    "name": "TERMINAL AXIAL GM CORSA - EVOLUTION 02/..",
+    "old_price": 40,
+    "new_price": 112.9,
+    "percentage_increase": 182.25000000000003,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "VW276",
+    "name": "LONA DE FREIO VW TRAS. GOL - CROSFOX",
+    "old_price": 22,
+    "new_price": 61.99,
+    "percentage_increase": 181.77272727272728,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "FI/90",
+    "name": "LONA DE FREIO FIAT TRAS. UNO",
+    "old_price": 15,
+    "new_price": 39.99,
+    "percentage_increase": 166.60000000000002,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "N6058;PVI1032;503031;JE3897",
+    "name": "PIVO VW SAVEIRO",
+    "old_price": 43,
+    "new_price": 113.9,
+    "percentage_increase": 164.88372093023258,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP121",
+    "name": "FILTRO AR CABINE GM PRISMA",
+    "old_price": 19,
+    "new_price": 49.9,
+    "percentage_increase": 162.6315789473684,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "V644",
+    "name": "TERMINAL AXIAL FIAT ROSCA DIRT.TEMPRA",
+    "old_price": 40,
+    "new_price": 104.9,
+    "percentage_increase": 162.25,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "NBJ2004EP",
+    "name": "BANDEJA FORD RANGER DIANT. SUP. LE",
+    "old_price": 192.99,
+    "new_price": 499.99,
+    "percentage_increase": 159.0755997720089,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "30970",
+    "name": "AMORTECEDOR GM -TRAS. OPALA / CARAVAN",
+    "old_price": 107,
+    "new_price": 272.9,
+    "percentage_increase": 155.04672897196258,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL6095",
+    "name": "FILTRO AR VW POLO/FOX/GOLF/GOL POWER",
+    "old_price": 21,
+    "new_price": 52.9,
+    "percentage_increase": 151.9047619047619,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AR9620",
+    "name": "FILTRO AR VW GOL",
+    "old_price": 16,
+    "new_price": 39.99,
+    "percentage_increase": 149.9375,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "GI40/7",
+    "name": "FILTRO COMBUSTIVEL UNO FIRE",
+    "old_price": 12,
+    "new_price": 29.99,
+    "percentage_increase": 149.91666666666666,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "PSL128",
+    "name": "FILTRO OLEO TOYOTA HILUX",
+    "old_price": 50,
+    "new_price": 124.9,
+    "percentage_increase": 149.8,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ALR136",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO VW GOLF AUDI A3",
+    "old_price": 57,
+    "new_price": 139.9,
+    "percentage_increase": 145.43859649122808,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "GI41",
+    "name": "FILTRO COMBUSTIVEL FIAT PALIO/SIENA/STR. 1.0/1.6/ TDS",
+    "old_price": 19,
+    "new_price": 45.99,
+    "percentage_increase": 142.0526315789474,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "PD5161",
+    "name": "TERMINAL DE DIREÇÃO FIAT TERM. DIR, IDEA 05> LE",
+    "old_price": 58,
+    "new_price": 139.99,
+    "percentage_increase": 141.36206896551727,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V027",
+    "name": "TERMINAL AXIAL GM VECTRA /97 TDS DIR.HD",
+    "old_price": 46,
+    "new_price": 110.99,
+    "percentage_increase": 141.28260869565216,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V212",
+    "name": "TERMINAL AXIAL CITROEN C3 02>",
+    "old_price": 46.99,
+    "new_price": 112.9,
+    "percentage_increase": 140.26388593317728,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "JE4634",
+    "name": "PIVO FIAT PALIO/WEEK/SIENA/STRADA >2000",
+    "old_price": 47,
+    "new_price": 111.99,
+    "percentage_increase": 138.27659574468083,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP102",
+    "name": "FILTRO AR CABINE FIAT BRAVA",
+    "old_price": 17,
+    "new_price": 39.99,
+    "percentage_increase": 135.23529411764707,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "V360",
+    "name": "TERMINAL AXIAL FORD FOCUS 2004>09",
+    "old_price": 45,
+    "new_price": 104.99,
+    "percentage_increase": 133.3111111111111,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "FI302C",
+    "name": "BANDEJA FIAT IDEA ADVEN DIANT.DIREITA COMP.",
+    "old_price": 222.99,
+    "new_price": 519.99,
+    "percentage_increase": 133.18982914032017,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V297",
+    "name": "TERMINAL AXIAL HYUNDAI TUCSON",
+    "old_price": 60,
+    "new_price": 137.9,
+    "percentage_increase": 129.83333333333334,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "FI-124C",
+    "name": "BANDEJA FIAT TRASEIRA UNO 85/96 D/E",
+    "old_price": 148.99,
+    "new_price": 340,
+    "percentage_increase": 128.20323511645074,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "AC2969",
+    "name": "BUCHA CITROEN BUCHA BARRA ESTAB.C3",
+    "old_price": 22,
+    "new_price": 49.99,
+    "percentage_increase": 127.22727272727275,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "38209",
+    "name": "AMORTECEDOR VW -TRAS. GOLF GLX/GTI /98",
+    "old_price": 120,
+    "new_price": 267.9,
+    "percentage_increase": 123.24999999999997,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "V033",
+    "name": "TERMINAL AXIAL VW POLO CLAS.VAN 98/",
+    "old_price": 52,
+    "new_price": 115.99,
+    "percentage_increase": 123.0576923076923,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V365",
+    "name": "TERMINAL AXIAL GM AGILE 2009>",
+    "old_price": 44.99,
+    "new_price": 99.9,
+    "percentage_increase": 122.04934429873306,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL9603",
+    "name": "FILTRO AR FORD FIESTA 96> COURIER",
+    "old_price": 14,
+    "new_price": 30.99,
+    "percentage_increase": 121.35714285714285,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "GI01/1",
+    "name": "FILTRO COMBUSTIVEL VW GOL/VERS/>90",
+    "old_price": 29.99,
+    "new_price": 65.99,
+    "percentage_increase": 120.04001333777927,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "FI197A",
+    "name": "BANDEJA FIAT PALIO/WEEK/SIENA LE",
+    "old_price": 170.99,
+    "new_price": 375.99,
+    "percentage_increase": 119.89005204982747,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V177",
+    "name": "TERMINAL AXIAL GM CORSA/MERIVA 02/ DH",
+    "old_price": 41.97,
+    "new_price": 91.9,
+    "percentage_increase": 118.96592804384085,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "FI301C",
+    "name": "BANDEJA FIAT IDEA ADVENTURE ESQ.COMPLETA",
+    "old_price": 238.99,
+    "new_price": 519.99,
+    "percentage_increase": 117.57814134482614,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "ARL2507",
+    "name": "FILTRO AR FIAT MAREA/BRAVA",
+    "old_price": 28,
+    "new_price": 60.9,
+    "percentage_increase": 117.5,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "83837",
+    "name": "AMORTECEDOR FORD TRAS. FOCUS 1.6 2.0 09...",
+    "old_price": 178,
+    "new_price": 382.9,
+    "percentage_increase": 115.11235955056178,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ACP100",
+    "name": "FILTRO AR CABINE FIAT PALIO",
+    "old_price": 14,
+    "new_price": 29.99,
+    "percentage_increase": 114.21428571428571,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "38037",
+    "name": "AMORTECEDOR VW  DIANT. KOMBI 97/",
+    "old_price": 70,
+    "new_price": 149.9,
+    "percentage_increase": 114.14285714285714,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC1191",
+    "name": "COXIM MOTOR FIAT PALIO/SIENA/STRADA/WEEKEND 1996/98",
+    "old_price": 56,
+    "new_price": 119.9,
+    "percentage_increase": 114.10714285714288,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "V320",
+    "name": "TERMINAL AXIAL FIAT PUNTO 1.4/1.8 08> DIR.HID",
+    "old_price": 48.94,
+    "new_price": 103.99,
+    "percentage_increase": 112.48467511238252,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL8829",
+    "name": "FILTRO AR GM COBALT/SONIC/SPIN/ECONOFLEX",
+    "old_price": 22.14,
+    "new_price": 46.99,
+    "percentage_increase": 112.24028906955736,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AR7705",
+    "name": "FILTRO AR TRAPEZOIDAL LOGAN/SANDERO 1.6 07...",
+    "old_price": 36.95,
+    "new_price": 77.99,
+    "percentage_increase": 111.06901217861973,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ACP125",
+    "name": "FILTRO AR CABINE GM CAPITIVA",
+    "old_price": 19,
+    "new_price": 39.99,
+    "percentage_increase": 110.47368421052633,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "V115",
+    "name": "TERMINAL AXIAL RENAULT CLIO/CANGOO/SYMBAL HIDRAULICO",
+    "old_price": 47.65,
+    "new_price": 99.9,
+    "percentage_increase": 109.65372507869886,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ART5051",
+    "name": "FILTRO AR TRAPEZOIDAL DUSTER E SANDERO",
+    "old_price": 28.64,
+    "new_price": 59.99,
+    "percentage_increase": 109.46229050279331,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL4147",
+    "name": "FILTRO AR FIAT UNO",
+    "old_price": 13.01,
+    "new_price": 26.99,
+    "percentage_increase": 107.45580322828592,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "V185",
+    "name": "TERMINAL AXIAL FORD FIESTA 03> DM - MACHO",
+    "old_price": 42,
+    "new_price": 86.9,
+    "percentage_increase": 106.90476190476193,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL8828",
+    "name": "FILTRO AR GM CRUZER 11>",
+    "old_price": 37.32,
+    "new_price": 76.99,
+    "percentage_increase": 106.2968917470525,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "V019",
+    "name": "TERMINAL AXIAL PEUGEOT 306 93>",
+    "old_price": 73,
+    "new_price": 149.9,
+    "percentage_increase": 105.34246575342468,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL 4157",
+    "name": "FILTRO AR JEEP COMPASS/RENEGADE FIAT TORO",
+    "old_price": 35.09,
+    "new_price": 71.99,
+    "percentage_increase": 105.1581647192932,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL5057",
+    "name": "FILTRO AR CITROEN C3/PEUGEOT/3008",
+    "old_price": 51.7,
+    "new_price": 105.99,
+    "percentage_increase": 105.00967117988394,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "HF-37",
+    "name": "DISCO DE FREIO FIAT DOUBLO/IDEIA/SIENA/PALIO...",
+    "old_price": 120.34,
+    "new_price": 245.99,
+    "percentage_increase": 104.41249792255276,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "AR9621",
+    "name": "FILTRO AR VW GOL",
+    "old_price": 20.99,
+    "new_price": 42.9,
+    "percentage_increase": 104.38303954263937,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "PSL902",
+    "name": "FILTRO OLEO FORD RANGER - S10 - BLAZER - F1000",
+    "old_price": 24,
+    "new_price": 48.99,
+    "percentage_increase": 104.125,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ART9614",
+    "name": "FILTRO AR TRAPEZOIDAL FORD NOVA ECOSPORT 08/12>",
+    "old_price": 33.32,
+    "new_price": 67.99,
+    "percentage_increase": 104.05162064825927,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL9608",
+    "name": "FILTRO AR FORD FIESTA",
+    "old_price": 18.17,
+    "new_price": 36.99,
+    "percentage_increase": 103.57732526141992,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "27341",
+    "name": "AMORTECEDOR FORD TRAS. FORD KA",
+    "old_price": 150,
+    "new_price": 303.99,
+    "percentage_increase": 102.66,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "83754",
+    "name": "AMORTECEDOR FORD TRAS. FOCUS 01/",
+    "old_price": 236,
+    "new_price": 475.99,
+    "percentage_increase": 101.69067796610169,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "GI07/1",
+    "name": "FILTRO COMBUSTIVEL VW SANT/QUANT/GOL 95/96",
+    "old_price": 19.99,
+    "new_price": 39.99,
+    "percentage_increase": 100.05002501250628,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "94152",
+    "name": "AMORTECEDOR RENAULT CLIO II",
+    "old_price": 265,
+    "new_price": 529.9,
+    "percentage_increase": 99.9622641509434,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ACP001",
+    "name": "FILTRO AR CABINE GM ASTRA",
+    "old_price": 20,
+    "new_price": 39.99,
+    "percentage_increase": 99.95,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PSL47",
+    "name": "FILTRO OLEO FIAT UNO",
+    "old_price": 18,
+    "new_price": 35.99,
+    "percentage_increase": 99.94444444444446,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC3179",
+    "name": "COXIM CAMBIO FIAT FIORINO/GRANDSIENA/MOBI/NOVASTRADA/PALIO/UNO",
+    "old_price": 69.99,
+    "new_price": 139.9,
+    "percentage_increase": 99.885697956851,
+    "item_group": "Coxim Cambio"
+  },
+  {
+    "fabrication_code": "V119",
+    "name": "TERMINAL AXIAL CITROEN XSARA / PICASSO 99>",
+    "old_price": 64.99,
+    "new_price": 129.9,
+    "percentage_increase": 99.87690413909834,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL1032",
+    "name": "FILTRO AR HONDA CIVIC AUT 2001/...",
+    "old_price": 33.99,
+    "new_price": 67.9,
+    "percentage_increase": 99.76463665784054,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "V017",
+    "name": "TERMINAL AXIAL FORD COURIER/KA/FIESTA",
+    "old_price": 34,
+    "new_price": 67.9,
+    "percentage_increase": 99.70588235294119,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "PSL78",
+    "name": "FILTRO OLEO RENAULT 1.0 8V TWINGO D7F/KANGOO 97>",
+    "old_price": 23.07,
+    "new_price": 45.99,
+    "percentage_increase": 99.34980494148246,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "32826",
+    "name": "AMORTECEDOR FIAT NOVO UNO10> C/BARRA",
+    "old_price": 218,
+    "new_price": 429.9,
+    "percentage_increase": 97.20183486238531,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL9605",
+    "name": "FILTRO AR FORD COURIER/KA",
+    "old_price": 26,
+    "new_price": 49.99,
+    "percentage_increase": 92.26923076923079,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC6689",
+    "name": "COIFA FORD HOMOC.CAMBIO FIESTA/COURRIER",
+    "old_price": 25.99,
+    "new_price": 49.9,
+    "percentage_increase": 91.99692189303579,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL4152",
+    "name": "FILTRO AR FIAT UNO-WAY/VIVACE 1.0 EVO",
+    "old_price": 18.76,
+    "new_price": 35.99,
+    "percentage_increase": 91.84434968017057,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC1993",
+    "name": "COXIM AMORTECEDOR DIANTEIRO TOYOTA COROLLA",
+    "old_price": 113,
+    "new_price": 215,
+    "percentage_increase": 90.2654867256637,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ACP800",
+    "name": "FILTRO AR CABINE PEUGEOT 207",
+    "old_price": 19.99,
+    "new_price": 37.9,
+    "percentage_increase": 89.59479739869936,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC4937",
+    "name": "COXIM MOTOR HIDRÁULICO DIREITO PEUGEOT 206",
+    "old_price": 72,
+    "new_price": 135.9,
+    "percentage_increase": 88.75,
+    "item_group": "Coxim Motor"
+  },
+  {
+    "fabrication_code": "V196",
+    "name": "TERMINAL AXIAL CITROEN C4 / C4 VTR 04> - PEUGEOT",
+    "old_price": 83,
+    "new_price": 155.9,
+    "percentage_increase": 87.83132530120483,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "SP184",
+    "name": "AMORTECEDOR FIAT DIANT. IDEA TDS",
+    "old_price": 228,
+    "new_price": 419.9,
+    "percentage_increase": 84.16666666666666,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARS2868",
+    "name": "FILTRO AR RADIAL SEAL GM S10",
+    "old_price": 31,
+    "new_price": 56.9,
+    "percentage_increase": 83.54838709677419,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "SP090",
+    "name": "AMORTECEDOR FORD -TRAS. FIESTA TDS",
+    "old_price": 156,
+    "new_price": 284.99,
+    "percentage_increase": 82.68589743589743,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC2248",
+    "name": "ROLAMENTO COXIM DIANTEIRO FORD ECOSPORT/FIESTA",
+    "old_price": 33,
+    "new_price": 59.99,
+    "percentage_increase": 81.7878787878788,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "N1030",
+    "name": "PIVO VW SAVEIRO",
+    "old_price": 54.99,
+    "new_price": 99.9,
+    "percentage_increase": 81.66939443535188,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "V174",
+    "name": "TERMINAL AXIAL RENAULT SCENIC/MEGNE 99>",
+    "old_price": 59,
+    "new_price": 106.99,
+    "percentage_increase": 81.33898305084745,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V042",
+    "name": "TERMINAL AXIAL FIAT ROSCA DIRT.PALIO",
+    "old_price": 42.59,
+    "new_price": 76.9,
+    "percentage_increase": 80.55881662362057,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "N3023",
+    "name": "PIVO GM INFERIOR S10-BLAZER 4X2",
+    "old_price": 61,
+    "new_price": 109.9,
+    "percentage_increase": 80.16393442622952,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "V037",
+    "name": "TERMINAL AXIAL FIAT UNO TURBO - ELBA",
+    "old_price": 45.52,
+    "new_price": 81.99,
+    "percentage_increase": 80.11862917398943,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "GI60/7",
+    "name": "FILTRO COMBUSTIVEL FORD FIESTA",
+    "old_price": 14.99,
+    "new_price": 26.99,
+    "percentage_increase": 80.05336891260839,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "V494",
+    "name": "TERMINAL AXIAL GM COBALT/ONIX/PRISMA/SONIC/SPIN",
+    "old_price": 42.75,
+    "new_price": 76.9,
+    "percentage_increase": 79.88304093567253,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "503068;N2122",
+    "name": "PIVO FORD DA RANGER 97/ INFER. LD/LE",
+    "old_price": 77.99,
+    "new_price": 139.9,
+    "percentage_increase": 79.38197204769844,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PEL110",
+    "name": "FILTRO OLEO PEUGEOT CITROEN 1.6 16V 2000>04",
+    "old_price": 31.99,
+    "new_price": 56.99,
+    "percentage_increase": 78.14942169427948,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V363",
+    "name": "TERMINAL AXIAL VW VOYAGE 08 - SAVEIRO - POLO 08>",
+    "old_price": 47.2,
+    "new_price": 83.99,
+    "percentage_increase": 77.94491525423727,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "AC6750",
+    "name": "COIFA HYUNDAI HB20 1.6",
+    "old_price": 25.99,
+    "new_price": 45.99,
+    "percentage_increase": 76.95267410542517,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "GI10",
+    "name": "FILTRO COMBUSTIVEL VW GOL/PARATI/SAVEIRO",
+    "old_price": 43,
+    "new_price": 75.99,
+    "percentage_increase": 76.72093023255813,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "V487",
+    "name": "TERMINAL AXIAL GM MONTANA 2011..",
+    "old_price": 58.99,
+    "new_price": 103.9,
+    "percentage_increase": 76.13154771995254,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "S-1101",
+    "name": "PASTILHAS DE FREIO GM - ASTRA 1.8 - PD-57",
+    "old_price": 91,
+    "new_price": 159.9,
+    "percentage_increase": 75.71428571428572,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "V370",
+    "name": "TERMINAL AXIAL GM CAPITIVA 2008>",
+    "old_price": 94,
+    "new_price": 164.9,
+    "percentage_increase": 75.42553191489361,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL5070",
+    "name": "FILTRO AR TOYOTA COROLA 1.6/1.8 FLEX 08>",
+    "old_price": 39.9,
+    "new_price": 69.9,
+    "percentage_increase": 75.18796992481205,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "V658",
+    "name": "TERMINAL AXIAL FIAT TORO 2016... DIESEL",
+    "old_price": 79.57,
+    "new_price": 138.9,
+    "percentage_increase": 74.56327761719244,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "SP064",
+    "name": "AMORTECEDOR GM TRAS. VECTRA 96/",
+    "old_price": 169,
+    "new_price": 294.9,
+    "percentage_increase": 74.49704142011832,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "V002",
+    "name": "TERMINAL AXIAL FIAT PREMIO/ELBA/MILLE /91",
+    "old_price": 46.99,
+    "new_price": 81.99,
+    "percentage_increase": 74.48393275164928,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "HF-25B",
+    "name": "DISCO DE FREIO GM ASTRA/ZAFIRA 1.8/2.0 8V 99/",
+    "old_price": 109,
+    "new_price": 189.9,
+    "percentage_increase": 74.22018348623854,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "94147",
+    "name": "AMORTECEDOR FORD DIANT. FOCUS 01/ LE",
+    "old_price": 296,
+    "new_price": 509.9,
+    "percentage_increase": 72.26351351351352,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "335039",
+    "name": "TERMINAL DE DIREÇÃO FORD FIESTA",
+    "old_price": 58,
+    "new_price": 99.9,
+    "percentage_increase": 72.24137931034484,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V265",
+    "name": "TERMINAL AXIAL VW FOX 03> - POLO 02>",
+    "old_price": 48.9,
+    "new_price": 83.99,
+    "percentage_increase": 71.75869120654396,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "VW1158",
+    "name": "BANDEJA VW POLO ESQ.DIRT 02>FOX 2/4PR",
+    "old_price": 227.1,
+    "new_price": 389.99,
+    "percentage_increase": 71.72611184500221,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V067",
+    "name": "TERMINAL AXIAL GM CORSA 99/ TDS - MEC.",
+    "old_price": 34.99,
+    "new_price": 59.99,
+    "percentage_increase": 71.44898542440697,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "94146",
+    "name": "AMORTECEDOR FORD DIANT. FOCUS 01/ LD",
+    "old_price": 298,
+    "new_price": 509.9,
+    "percentage_increase": 71.10738255033556,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HF-23A",
+    "name": "DISCO DE FREIO GM CORSA GSI 93> DIANT.",
+    "old_price": 118,
+    "new_price": 199.99,
+    "percentage_increase": 69.48305084745763,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "V266",
+    "name": "TERMINAL AXIAL FORD ECOSPORT 4X4 04>",
+    "old_price": 61,
+    "new_price": 102.9,
+    "percentage_increase": 68.68852459016395,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "503378",
+    "name": "PIVO HONDA CITY 09A13",
+    "old_price": 82.99,
+    "new_price": 139.9,
+    "percentage_increase": 68.574527051452,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PSL340",
+    "name": "FILTRO OLEO GM S-10",
+    "old_price": 75.99,
+    "new_price": 127.99,
+    "percentage_increase": 68.43005658639295,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "335142",
+    "name": "TERMINAL DE DIREÇÃO NISSAN FRONTIER 1998/2007",
+    "old_price": 103.99,
+    "new_price": 174.99,
+    "percentage_increase": 68.27579574959132,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "27236",
+    "name": "AMORTECEDOR FORD ECOSPORT 4X4 PASSEIO DIANT.",
+    "old_price": 234.99,
+    "new_price": 394.99,
+    "percentage_increase": 68.08800374484021,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "27023",
+    "name": "AMORTECEDOR FIAT -DIANT. WEEKEND 96/97",
+    "old_price": 143,
+    "new_price": 239.9,
+    "percentage_increase": 67.76223776223776,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "N6058",
+    "name": "PIVO FIAT STRADA 2000/..PALIO FIRE",
+    "old_price": 29.87,
+    "new_price": 49.99,
+    "percentage_increase": 67.35855373284232,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "15030",
+    "name": "AMORTECEDOR FIAT TRAS. UNO 98>",
+    "old_price": 167.99,
+    "new_price": 279.99,
+    "percentage_increase": 66.67063515685457,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "W16W",
+    "name": "LAMPADA W2.1X9,5D",
+    "old_price": 1.5,
+    "new_price": 2.5,
+    "percentage_increase": 66.66666666666666,
+    "item_group": "Lampada"
+  },
+  {
+    "fabrication_code": "PSL135",
+    "name": "FILTRO OLEO PEUGEOT TDS LAGUNA/SUBARU",
+    "old_price": 24,
+    "new_price": 39.99,
+    "percentage_increase": 66.62500000000001,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC4979",
+    "name": "COXIM AMORTECEDOR DIANTEIRO TOYOTA COROLLA",
+    "old_price": 125.99,
+    "new_price": 209.9,
+    "percentage_increase": 66.6005238510993,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "PSL45",
+    "name": "FILTRO OLEO FIAT PALIO",
+    "old_price": 15,
+    "new_price": 24.99,
+    "percentage_increase": 66.6,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "1005",
+    "name": "BANDEJA VW C/BUCHA GOL /94",
+    "old_price": 90.66,
+    "new_price": 149.99,
+    "percentage_increase": 65.4423119347011,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "PEL705",
+    "name": "FILTRO OLEO RENAULT CLIO 1.2 16V 2003",
+    "old_price": 25.99,
+    "new_price": 42.99,
+    "percentage_increase": 65.4097729896114,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "HFCT33",
+    "name": "CUBO DA RODA FIAT PALIO/ SIENA 2012...",
+    "old_price": 108.99,
+    "new_price": 179.9,
+    "percentage_increase": 65.06101477199743,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "N326",
+    "name": "PIVO GM INFERIOR ) MONZA /VECTRA",
+    "old_price": 71,
+    "new_price": 116.99,
+    "percentage_increase": 64.77464788732394,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "C3350",
+    "name": "CILINDRO DE FREIO VW RODA TRAS. D/E DOL/VERS./SANT.",
+    "old_price": 42.47,
+    "new_price": 69.9,
+    "percentage_increase": 64.58676712973866,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "N3069",
+    "name": "PIVO GM MERIVA TDS",
+    "old_price": 85.99,
+    "new_price": 139.9,
+    "percentage_increase": 62.69333643446914,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "V116",
+    "name": "TERMINAL AXIAL PEUGEOT 206 98/...",
+    "old_price": 58.96,
+    "new_price": 95.9,
+    "percentage_increase": 62.652645861601094,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V189",
+    "name": "TERMINAL AXIAL FIAT DOBLO",
+    "old_price": 47.98,
+    "new_price": 77.99,
+    "percentage_increase": 62.54689453939142,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "AC5975",
+    "name": "COXIM MOTOR ESQUERDO CITROEN C4/C5/BERLINGO/PICASSO PEUGEOT 206/306/307",
+    "old_price": 68,
+    "new_price": 109.99,
+    "percentage_increase": 61.74999999999999,
+    "item_group": "Coxim Motor"
+  },
+  {
+    "fabrication_code": "27285",
+    "name": "AMORTECEDOR RENAULT LOGAN/SANDEIRO",
+    "old_price": 155.99,
+    "new_price": 250.9,
+    "percentage_increase": 60.843643823322004,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ALR40650",
+    "name": "ROLAMENTO RODA TRASEIRA DUPLO GM CORSA/MERIVA",
+    "old_price": 99,
+    "new_price": 158.9,
+    "percentage_increase": 60.505050505050505,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "ACP200",
+    "name": "FILTRO AR CABINE FORD KA",
+    "old_price": 24.94,
+    "new_price": 39.99,
+    "percentage_increase": 60.3448275862069,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "HF-829",
+    "name": "DISCO DE FREIO RENAULT DIANT.VENT.MEGANE 1.6/2.0 16V",
+    "old_price": 166,
+    "new_price": 265.9,
+    "percentage_increase": 60.180722891566255,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "V565",
+    "name": "TERMINAL AXIAL RENEGADE/TORO 2015...",
+    "old_price": 80,
+    "new_price": 127.99,
+    "percentage_increase": 59.9875,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V502",
+    "name": "TERMINAL AXIAL FIAT PALIO/STRADA/SIENA HIDRAL.2010",
+    "old_price": 48.94,
+    "new_price": 77.99,
+    "percentage_increase": 59.358398038414386,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "FCI1274",
+    "name": "FILTRO COMBUSTIVEL VW AMAROK",
+    "old_price": 129.99,
+    "new_price": 205.99,
+    "percentage_increase": 58.466035848911446,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "UB630",
+    "name": "BOMBA D AGUA VW/SEAT",
+    "old_price": 107.58,
+    "new_price": 169.99,
+    "percentage_increase": 58.012641754973046,
+    "item_group": "Bomba D'agua"
+  },
+  {
+    "fabrication_code": "SP006",
+    "name": "AMORTECEDOR FIAT DIANT.STRADA ADVEN/LOCKER 08>",
+    "old_price": 291.99,
+    "new_price": 459.99,
+    "percentage_increase": 57.53621699373266,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ACP206",
+    "name": "FILTRO AR CABINE FORD FOCUS 2.0 16V",
+    "old_price": 25.71,
+    "new_price": 39.99,
+    "percentage_increase": 55.542590431738624,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "V184",
+    "name": "TERMINAL AXIAL FORD FIESTA 03/...",
+    "old_price": 41.74,
+    "new_price": 64.9,
+    "percentage_increase": 55.48634403449929,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V241",
+    "name": "TERMINAL AXIAL FORD FIESTA 99 > 05",
+    "old_price": 57.99,
+    "new_price": 89.99,
+    "percentage_increase": 55.18192791860665,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "AC5915",
+    "name": "ROLAMENTO COXIM RENAULT CLIO",
+    "old_price": 17.99,
+    "new_price": 27.9,
+    "percentage_increase": 55.086158977209564,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "ACP131",
+    "name": "FILTRO AR CABINE FIAT DOBLO 2001>",
+    "old_price": 19.99,
+    "new_price": 30.99,
+    "percentage_increase": 55.02751375687844,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PSL563",
+    "name": "FILTRO OLEO VW GOL/PARATI/POLO",
+    "old_price": 21.99,
+    "new_price": 33.99,
+    "percentage_increase": 54.570259208731265,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V539",
+    "name": "TERMINAL AXIAL HYUNDAI HB20 2012....",
+    "old_price": 84.99,
+    "new_price": 130.99,
+    "percentage_increase": 54.12401458995178,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ACP982",
+    "name": "FILTRO AR CABINE HYUNDAI ELANTRA I30",
+    "old_price": 25.99,
+    "new_price": 39.99,
+    "percentage_increase": 53.86687187379763,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "N1058;PVI7365",
+    "name": "PIVO VW L.E. GOLF GER.4 - AUDI A3",
+    "old_price": 65,
+    "new_price": 99.9,
+    "percentage_increase": 53.69230769230771,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "503190",
+    "name": "PIVO FIAT IDEA 06> STRADA 09> LD",
+    "old_price": 78.33,
+    "new_price": 119.9,
+    "percentage_increase": 53.0703434188689,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "V009",
+    "name": "TERMINAL AXIAL FORD ESCORT",
+    "old_price": 30,
+    "new_price": 45.9,
+    "percentage_increase": 52.99999999999999,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "V008",
+    "name": "TERMINAL AXIAL VW ESCORT/VER./LOGUS/POINTER",
+    "old_price": 30,
+    "new_price": 45.9,
+    "percentage_increase": 52.99999999999999,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "S-3115",
+    "name": "PASTILHAS DE FREIO GM DT.TRACKER 14>",
+    "old_price": 137.99,
+    "new_price": 209.99,
+    "percentage_increase": 52.177694035799696,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "ACP707",
+    "name": "FILTRO AR CABINE HONDA FIT 07/08",
+    "old_price": 20.99,
+    "new_price": 31.9,
+    "percentage_increase": 51.977131967603626,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "335065",
+    "name": "TERMINAL DE DIREÇÃO GM MERIVA 02>",
+    "old_price": 78.99,
+    "new_price": 119.9,
+    "percentage_increase": 51.79136599569567,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "C3500",
+    "name": "CILINDRO DE FREIO GM TRAS. CORSA/CELTA/PRISMA",
+    "old_price": 46.33,
+    "new_price": 69.9,
+    "percentage_increase": 50.874163608892744,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "ACP101",
+    "name": "FILTRO AR CABINE FIAT SIENA/STRADA",
+    "old_price": 19.9,
+    "new_price": 29.99,
+    "percentage_increase": 50.70351758793971,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC4305",
+    "name": "COXIM AMORTECEDOR TRASEIRO LD GM COBALT/PRISMA",
+    "old_price": 63.99,
+    "new_price": 95.9,
+    "percentage_increase": 49.86716674480388,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC4304",
+    "name": "COXIM AMORTECEDOR TRASEIRO LE GM COBALT/ PRISMA",
+    "old_price": 63.99,
+    "new_price": 95.9,
+    "percentage_increase": 49.86716674480388,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ARL8825",
+    "name": "FILTRO AR GM CORSA 1.0 8V 02> MER VA 02>",
+    "old_price": 24.9,
+    "new_price": 36.99,
+    "percentage_increase": 48.5542168674699,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "NKJ569",
+    "name": "COIFA VW GOL G4 1.6 1.8 05/13",
+    "old_price": 26.99,
+    "new_price": 39.99,
+    "percentage_increase": 48.16598740274177,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "N3012",
+    "name": "PIVO GM SUPERIOR S-10 4X2/4X4 BLAZER",
+    "old_price": 83,
+    "new_price": 122.9,
+    "percentage_increase": 48.07228915662651,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP809",
+    "name": "FILTRO AR CABINE PEUGEOT 308/307/C3/C4",
+    "old_price": 29.06,
+    "new_price": 42.99,
+    "percentage_increase": 47.93530626290435,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "HF-21A",
+    "name": "DISCO DE FREIO GM S10-BLAZER 4X4 5F. VENT. 98>",
+    "old_price": 156,
+    "new_price": 229.99,
+    "percentage_increase": 47.42948717948718,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "6074",
+    "name": "PIVO FIAT LINEA / DOBLO ADVEN. 04. LD",
+    "old_price": 88.99,
+    "new_price": 130.99,
+    "percentage_increase": 47.19631419260593,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP811",
+    "name": "FILTRO AR CABINE PEUGEOT 208 1.5 2008 1.6 2013....",
+    "old_price": 33.99,
+    "new_price": 49.99,
+    "percentage_increase": 47.07266843189173,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "FI97",
+    "name": "SAPATA DE FREIO FIAT",
+    "old_price": 85.47,
+    "new_price": 124.99,
+    "percentage_increase": 46.23844623844624,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "V287",
+    "name": "TERMINAL AXIAL FORD FOCUS 06>",
+    "old_price": 75.99,
+    "new_price": 110.99,
+    "percentage_increase": 46.058691933149106,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "15031",
+    "name": "AMORTECEDOR FIAT DIANT. FIORINO",
+    "old_price": 205.37,
+    "new_price": 299.9,
+    "percentage_increase": 46.029118176948906,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "NBJ6010EP",
+    "name": "BANDEJA RENAULT LOGAN /SANDERO 07/13 C/PIVO LE",
+    "old_price": 216.99,
+    "new_price": 315.99,
+    "percentage_increase": 45.62422231439236,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "NBJ6010DP",
+    "name": "BANDEJA RENAULT LOGAN/SANDERO 07/13 C/PIVO LD",
+    "old_price": 216.99,
+    "new_price": 315.99,
+    "percentage_increase": 45.62422231439236,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "FI198A",
+    "name": "BANDEJA FIAT PALIO 96/ - WEEK 97-SIENA DT",
+    "old_price": 259.49,
+    "new_price": 375.99,
+    "percentage_increase": 44.89575706192917,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "AR6075",
+    "name": "FILTRO AR VW JETA/GOLF",
+    "old_price": 75.99,
+    "new_price": 109.99,
+    "percentage_increase": 44.742729306487696,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "78552",
+    "name": "COIFA FIAT HOMOC. RODA UNO/PREMIO/FIORINO",
+    "old_price": 20.04,
+    "new_price": 28.99,
+    "percentage_increase": 44.66067864271457,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "V070",
+    "name": "TERMINAL AXIAL GM M14X1.5 HID.CORSA/SED./PICK-UP",
+    "old_price": 43.55,
+    "new_price": 62.9,
+    "percentage_increase": 44.43168771526981,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "S-1232",
+    "name": "PASTILHAS DE FREIO FORD ESCORT 1.6/1.8",
+    "old_price": 51.99,
+    "new_price": 74.99,
+    "percentage_increase": 44.23927678399691,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "503189",
+    "name": "PIVO FIAT PIVO IDEA 06> STRADA 09> LE",
+    "old_price": 83.18,
+    "new_price": 119.9,
+    "percentage_increase": 44.14522721808126,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP729",
+    "name": "FILTRO AR CABINE NISSAN FRONTIER",
+    "old_price": 25,
+    "new_price": 35.99,
+    "percentage_increase": 43.96000000000001,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "GP32585",
+    "name": "AMORTECEDOR CITROEN DIANT. PICASSO DIR.",
+    "old_price": 277.99,
+    "new_price": 399.99,
+    "percentage_increase": 43.88647073635742,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "F32",
+    "name": "TAMPA DO RESERVATÓRIO DO RADIADOR FORD",
+    "old_price": 20.85,
+    "new_price": 29.99,
+    "percentage_increase": 43.836930455635475,
+    "item_group": "Tampa de Oleo"
+  },
+  {
+    "fabrication_code": "FI330BC",
+    "name": "BANDEJA FIAT LD NOVO PALIO/SIENA 12...",
+    "old_price": 362.88,
+    "new_price": 519.99,
+    "percentage_increase": 43.29530423280424,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "N6020",
+    "name": "PIVO FIAT INFERIOR PALIO ( TDS )",
+    "old_price": 66.99,
+    "new_price": 95.99,
+    "percentage_increase": 43.29004329004329,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "HFCD38",
+    "name": "CUBO DA RODA FIAT DIANT. PALIO 16N/UNO MILLE",
+    "old_price": 59.99,
+    "new_price": 85.9,
+    "percentage_increase": 43.190531755292554,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "503264;N99275",
+    "name": "PIVO HYUNDAI HB20 12/16",
+    "old_price": 64.99,
+    "new_price": 92.9,
+    "percentage_increase": 42.94506847207265,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "SP831",
+    "name": "AMORTECEDOR HONDA TRAS. CITY/FIT 09>",
+    "old_price": 216.99,
+    "new_price": 309.99,
+    "percentage_increase": 42.85911793170192,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL6093",
+    "name": "FILTRO AR VW BORA/GOL/GOLF/POLO",
+    "old_price": 42,
+    "new_price": 59.99,
+    "percentage_increase": 42.83333333333334,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "N2136;JE4950",
+    "name": "PIVO FORD FIESTA-ECOSPORT 02/",
+    "old_price": 67.16,
+    "new_price": 94.99,
+    "percentage_increase": 41.43835616438356,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "RN4100C",
+    "name": "BANDEJA DIANTEIRA DIREITA COMPLETA RENAULT KWID",
+    "old_price": 318.23,
+    "new_price": 449.99,
+    "percentage_increase": 41.40401596329698,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "RN4101C",
+    "name": "BANDEJA DIANTEIRA ESQUERDA COMPLETA RENAULT KWID",
+    "old_price": 318.23,
+    "new_price": 449.99,
+    "percentage_increase": 41.40401596329698,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V288",
+    "name": "TERMINAL AXIAL HONDA CIVIC 06>",
+    "old_price": 79.99,
+    "new_price": 112.9,
+    "percentage_increase": 41.14264283035381,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "AC3107",
+    "name": "COXIM CAMBIO INFERIOR FIAT PALIO/NOVOPALIO/SIENA/WEEKEND",
+    "old_price": 92.06,
+    "new_price": 129.9,
+    "percentage_increase": 41.103628068650885,
+    "item_group": "Coxim Cambio"
+  },
+  {
+    "fabrication_code": "PSL565",
+    "name": "FILTRO OLEO VW SAVEIRO",
+    "old_price": 26.99,
+    "new_price": 37.99,
+    "percentage_increase": 40.755835494627654,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "NY-7741",
+    "name": "TENSOR FIAT PALIO 1.4 FIRE - UNO",
+    "old_price": 71.06,
+    "new_price": 99.99,
+    "percentage_increase": 40.71207430340556,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "1005B",
+    "name": "BANDEJA VW GOL/PARATI/SAVEIRO GIII",
+    "old_price": 99.93,
+    "new_price": 139.99,
+    "percentage_increase": 40.088061643150205,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "ACP103",
+    "name": "FILTRO AR CABINE FIAT ESTRADA 1.3/1.6 F",
+    "old_price": 14.29,
+    "new_price": 19.99,
+    "percentage_increase": 39.88803358992302,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "6073",
+    "name": "PIVO FIAT LINEA / DOBLO ADIV. 04> LE",
+    "old_price": 92.99,
+    "new_price": 129.99,
+    "percentage_increase": 39.78922464781161,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PEL310",
+    "name": "FILTRO OLEO FORD RANGER",
+    "old_price": 62.99,
+    "new_price": 87.99,
+    "percentage_increase": 39.68883949833305,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC6632",
+    "name": "COIFA FIAT LADO RODA PALIO UNO TIPO FIORI",
+    "old_price": 17.93,
+    "new_price": 25,
+    "percentage_increase": 39.43112102621305,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "C-3537",
+    "name": "CILINDRO DE FREIO SANDERO/ FOX",
+    "old_price": 119.1,
+    "new_price": 165.99,
+    "percentage_increase": 39.37027707808566,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "503185",
+    "name": "PIVO FIAT PUNTO / LINEA - 08>",
+    "old_price": 65.96,
+    "new_price": 91.9,
+    "percentage_increase": 39.32686476652519,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "FI329BC",
+    "name": "BANDEJA FIAT ESQUERDO NOVO PALIO SIENA",
+    "old_price": 374.39,
+    "new_price": 519.99,
+    "percentage_increase": 38.889927615588036,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "AC6940",
+    "name": "COXIM AMORTECEDOR DIANTEIRO PEUGEOT 307",
+    "old_price": 72,
+    "new_price": 99.99,
+    "percentage_increase": 38.87499999999999,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC6628",
+    "name": "COIFA FIAT LADO CAMBIO PALIO/FIORINO",
+    "old_price": 93.68,
+    "new_price": 129.9,
+    "percentage_increase": 38.66353543979504,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "NY-7742",
+    "name": "TENSOR FIAT PALIO/STRADA/DOBLO FIRE",
+    "old_price": 101,
+    "new_price": 139.99,
+    "percentage_increase": 38.60396039603961,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "ACP003",
+    "name": "FILTRO AR CABINE GM CORSA/ASTRA/CELTA",
+    "old_price": 18.14,
+    "new_price": 24.99,
+    "percentage_increase": 37.761852260198445,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ARL1037",
+    "name": "FILTRO AR HONDA CIVIC 1.8 16V 2013... 2.0 13A15",
+    "old_price": 75.54,
+    "new_price": 103.99,
+    "percentage_increase": 37.66216574000528,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "V347",
+    "name": "TERMINAL AXIAL NISSAN SENTRA 07/12",
+    "old_price": 84.99,
+    "new_price": 116.99,
+    "percentage_increase": 37.65148841040122,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "AC4988",
+    "name": "ROLAMENTO COXIM DIANT. CITROEN C3/C4/XSARA/PICASSO",
+    "old_price": 39.99,
+    "new_price": 54.9,
+    "percentage_increase": 37.284321080270054,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "PG5002",
+    "name": "BANDEJA PEUGEOT 206 99/ DIANT. DIRT.",
+    "old_price": 291.69,
+    "new_price": 399.99,
+    "percentage_increase": 37.128458294765,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "PG5003",
+    "name": "BANDEJA PEUGEOT 206 99/ DIANT.ESQ.",
+    "old_price": 291.69,
+    "new_price": 399.99,
+    "percentage_increase": 37.128458294765,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "V028",
+    "name": "TERMINAL AXIAL FORD FIESTA/COURIER 97/ MEC/HID",
+    "old_price": 51,
+    "new_price": 69.9,
+    "percentage_increase": 37.058823529411775,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "GL13136",
+    "name": "AMORTECEDOR FIAT TRAS. STRADA ADVENT.LOCKER 08>",
+    "old_price": 178.99,
+    "new_price": 244.9,
+    "percentage_increase": 36.823286217107096,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "C3511",
+    "name": "CILINDRO DE FREIO PEUGEOT 206 - XSARA -",
+    "old_price": 153.73,
+    "new_price": 209.9,
+    "percentage_increase": 36.53808625512263,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "DOT4",
+    "name": "FLUIDO DE FREIO DOT-4",
+    "old_price": 34.5,
+    "new_price": 46.99,
+    "percentage_increase": 36.20289855072464,
+    "item_group": "Peça Freio/Fluido"
+  },
+  {
+    "fabrication_code": "N1064;503158;PVI1043",
+    "name": "PIVO VW LE FOX-NOVO POLO",
+    "old_price": 71.99,
+    "new_price": 97.9,
+    "percentage_increase": 35.99110987637174,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ARL8834",
+    "name": "FILTRO AR GM CELTA 2000/",
+    "old_price": 13.17,
+    "new_price": 17.9,
+    "percentage_increase": 35.91495823842064,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "2150-A",
+    "name": "BANDEJA GM DO CORSA LD",
+    "old_price": 95.58,
+    "new_price": 129.9,
+    "percentage_increase": 35.90709353421219,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "AC1921",
+    "name": "ROLAMENTO COXIM DIANTEIRO HONDA CRV/NEWCIVIC",
+    "old_price": 77.99,
+    "new_price": 105.99,
+    "percentage_increase": 35.9020387229132,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "NY-7730",
+    "name": "TENSOR FIAT PALIO/UNO/FIORINO - MOT.FIASA",
+    "old_price": 102.99,
+    "new_price": 139.9,
+    "percentage_increase": 35.83843091562289,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "AC2964",
+    "name": "BUCHA KIA MOTORS BAND. SUSP.MAIOR SOUL 09>",
+    "old_price": 45,
+    "new_price": 60.99,
+    "percentage_increase": 35.53333333333334,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "S-1326",
+    "name": "PASTILHAS DE FREIO PEUGEOT - 206 1.0/1.6 99/01 PD-412",
+    "old_price": 96,
+    "new_price": 129.99,
+    "percentage_increase": 35.406250000000014,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "AC4347",
+    "name": "BUCHA GM BARRA EST.CRUZE 2012",
+    "old_price": 16.99,
+    "new_price": 22.99,
+    "percentage_increase": 35.31489111241907,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "C3410",
+    "name": "CILINDRO DE FREIO GM CORSA/VECTRA/ZAFIRA",
+    "old_price": 51.78,
+    "new_price": 69.99,
+    "percentage_increase": 35.16801853997681,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "ACP903",
+    "name": "FILTRO AR CABINE CITROEN C3/C4 06> AIRCROSS PEUGEOT 307",
+    "old_price": 29.61,
+    "new_price": 39.99,
+    "percentage_increase": 35.05572441742655,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PSL327",
+    "name": "FILTRO OLEO MITSUB/KIA",
+    "old_price": 59.25,
+    "new_price": 79.99,
+    "percentage_increase": 35.0042194092827,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "CT6002B",
+    "name": "BANDEJA CITROEN C3/C2 DIREITA S/PIVO 2002/2005",
+    "old_price": 274.99,
+    "new_price": 369.9,
+    "percentage_increase": 34.51398232663004,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "HFCD26B",
+    "name": "CUBO DA RODA GM DIANT. ASTRA/ZAFIRA 4 FUR. 8V",
+    "old_price": 220,
+    "new_price": 295.9,
+    "percentage_increase": 34.49999999999999,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "NY-7796",
+    "name": "TENSOR GM /CELTA/ASTRA/",
+    "old_price": 119.24,
+    "new_price": 159.99,
+    "percentage_increase": 34.17477356591749,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "JE5743",
+    "name": "PIVO HONDA FIT CITY LE/LE",
+    "old_price": 81.99,
+    "new_price": 109.99,
+    "percentage_increase": 34.150506159287715,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "NY-7704",
+    "name": "TENSOR FIAT PALIO/SIENA/STRADA/UNO/IDEA",
+    "old_price": 122.99,
+    "new_price": 164.9,
+    "percentage_increase": 34.07594113342549,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "SP002",
+    "name": "AMORTECEDOR FIAT DIANT. PALIO ADIV.LOCKER",
+    "old_price": 463.1,
+    "new_price": 619.9,
+    "percentage_increase": 33.858777801770664,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP036",
+    "name": "AMORTECEDOR RENAULT CLIO 1.0 HETCH 2012...",
+    "old_price": 403.59,
+    "new_price": 539.9,
+    "percentage_increase": 33.77437498451399,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "V097",
+    "name": "TERMINAL AXIAL VW GOLF 99/...",
+    "old_price": 74,
+    "new_price": 98.9,
+    "percentage_increase": 33.64864864864865,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "HB4CF",
+    "name": "LAMPADA FORD 12V VENTOR 12V",
+    "old_price": 29.99,
+    "new_price": 39.99,
+    "percentage_increase": 33.34444814938314,
+    "item_group": "Lampada"
+  },
+  {
+    "fabrication_code": "ACP126",
+    "name": "FILTRO AR CABINE GM CRUZE/COBALT 11>",
+    "old_price": 23.3,
+    "new_price": 30.99,
+    "percentage_increase": 33.00429184549355,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ART8860",
+    "name": "FILTRO AR TRAPEZOIDAL GM ONIX/TRACK 2019/20",
+    "old_price": 47.31,
+    "new_price": 62.9,
+    "percentage_increase": 32.952864087930664,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC4402",
+    "name": "COXIM AMORTECEDOR TRASEIRO VW SAVEIRO/JETTA",
+    "old_price": 86.99,
+    "new_price": 115,
+    "percentage_increase": 32.1991033452121,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ACP481/9",
+    "name": "FILTRO AR CABINE MITSUBISHI PAJERO",
+    "old_price": 33.99,
+    "new_price": 44.9,
+    "percentage_increase": 32.09767578699616,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC8236",
+    "name": "KIT BAT.+ COIFA FORD TRAS. FIESTA 02> DP",
+    "old_price": 45.42,
+    "new_price": 59.99,
+    "percentage_increase": 32.07837956847204,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "WEOC004",
+    "name": "FILTRO CAMBIO AUTOMÁTICO HONDA",
+    "old_price": 98.47,
+    "new_price": 129.99,
+    "percentage_increase": 32.009749162181386,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "38295",
+    "name": "AMORTECEDOR FIAT DIANT. UNO WAY 08/14",
+    "old_price": 246.99,
+    "new_price": 325.9,
+    "percentage_increase": 31.948661889145296,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "V121",
+    "name": "TERMINAL AXIAL FORD FOCUS 98/ DH - MACHO",
+    "old_price": 72,
+    "new_price": 94.99,
+    "percentage_increase": 31.93055555555555,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ALR41288",
+    "name": "ROLAMENTO RODA TRASEIRA DUPLO NISSAN MARCH/VERSA RENAULT FLUENCE",
+    "old_price": 139,
+    "new_price": 182.9,
+    "percentage_increase": 31.58273381294964,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "FI-136CP",
+    "name": "SAPATA DE FREIO FIAT DOUBLO STRADA",
+    "old_price": 151.99,
+    "new_price": 199.99,
+    "percentage_increase": 31.581025067438645,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "PEL118",
+    "name": "FILTRO OLEO ALFA ROMEO GIULIETTA - FIAT 500/BRAVO/CINQUECENTO/LINEA 10/13",
+    "old_price": 45.61,
+    "new_price": 59.99,
+    "percentage_increase": 31.52817364613024,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "WFC572",
+    "name": "FILTRO CAMBIO AUTOMÁTICO HONDA",
+    "old_price": 418.36,
+    "new_price": 549.99,
+    "percentage_increase": 31.463333014628546,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "ACP309",
+    "name": "FILTRO AR CABINE VW JETTA/PASSAT/GOLF",
+    "old_price": 48.69,
+    "new_price": 63.99,
+    "percentage_increase": 31.42329020332718,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ACP886",
+    "name": "FILTRO AR CABINE TOYOTA COROLA E FILDE >06",
+    "old_price": 20.47,
+    "new_price": 26.9,
+    "percentage_increase": 31.411822178798243,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "BKR7ESB",
+    "name": "VELA DE IGNICAO VW GOL/CROSSFOX/FOX 1,0A1,6",
+    "old_price": 32.72,
+    "new_price": 42.99,
+    "percentage_increase": 31.387530562347198,
+    "item_group": "Terminal Eletrico"
+  },
+  {
+    "fabrication_code": "PSL612",
+    "name": "FILTRO OLEO GM ONIX/TRACK 2019/20",
+    "old_price": 38.06,
+    "new_price": 49.99,
+    "percentage_increase": 31.345244351024693,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "503124",
+    "name": "PIVO GM VECTRA / ASTRA 99/",
+    "old_price": 86.76,
+    "new_price": 113.9,
+    "percentage_increase": 31.28169663439373,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "AC2962",
+    "name": "BUCHA BANDEJA MENOR HONDA CIVIC 07...",
+    "old_price": 15.99,
+    "new_price": 20.99,
+    "percentage_increase": 31.269543464665407,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC8133",
+    "name": "KIT BAT.+ COIFA FIAT PALIO/SIENA/PALIO WEEKEND DUPLO",
+    "old_price": 38.13,
+    "new_price": 49.99,
+    "percentage_increase": 31.104117492787825,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "38056",
+    "name": "AMORTECEDOR VW -TRAS. GOL /94",
+    "old_price": 122.21,
+    "new_price": 159.99,
+    "percentage_increase": 30.9140004909582,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC6410",
+    "name": "COIFA HOMOCINETICA FORD/VW - CÂMBIO",
+    "old_price": 22.91,
+    "new_price": 29.99,
+    "percentage_increase": 30.903535573985152,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "KIB-339269",
+    "name": "AMORTECEDOR BMW DIANT.DIREITO 2006 A 2012",
+    "old_price": 802.99,
+    "new_price": 1049.9,
+    "percentage_increase": 30.748826261846357,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "PD-66CF",
+    "name": "PASTILHAS DE FREIO FIAT DOBLO/PALIO WEEK",
+    "old_price": 146,
+    "new_price": 189.99,
+    "percentage_increase": 30.130136986301377,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "PSL158",
+    "name": "FILTRO OLEO MITSUB. PAGERO L200-TRITON PAGERO FULL",
+    "old_price": 84.54,
+    "new_price": 109.9,
+    "percentage_increase": 29.997634255973498,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ALR0036",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO VW FOX/CROSSFOX FORD ECOSPORT/KA/FIESTA/FOCUS CHEVROLET ASTRA",
+    "old_price": 77,
+    "new_price": 99.99,
+    "percentage_increase": 29.857142857142847,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "PSL148",
+    "name": "FILTRO OLEO FORD FIESTA/ECOSPORT 1.0-1.6",
+    "old_price": 37.76,
+    "new_price": 48.99,
+    "percentage_increase": 29.740466101694928,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "PSL134",
+    "name": "FILTRO OLEO TOYOTA COROLA",
+    "old_price": 26.99,
+    "new_price": 34.99,
+    "percentage_increase": 29.64060763245648,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC8373",
+    "name": "KIT BAT.+ COIFA GM BAT. + COIFA TRAS. CORSA DP",
+    "old_price": 25.46,
+    "new_price": 32.99,
+    "percentage_increase": 29.575805184603304,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC8135",
+    "name": "KIT BAT.+ COIFA FIAT TRAS PALIO SIENA DP",
+    "old_price": 38.6,
+    "new_price": 49.99,
+    "percentage_increase": 29.507772020725387,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL4154",
+    "name": "FILTRO AR FIAT PALIO/SIENA/PUNTO 2011>",
+    "old_price": 38.66,
+    "new_price": 49.99,
+    "percentage_increase": 29.306777030522518,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ACP977",
+    "name": "FILTRO AR CABINE KIA MOTORS CERATO",
+    "old_price": 23.99,
+    "new_price": 30.99,
+    "percentage_increase": 29.178824510212593,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC3294",
+    "name": "COXIM AMORTECEDOR TRASEIRO FORD KA/FIESTA",
+    "old_price": 61.94,
+    "new_price": 79.9,
+    "percentage_increase": 28.99580238940912,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "WFC520",
+    "name": "FILTRO CAMBIO AUTOMÁTICO TOYOTA",
+    "old_price": 194.32,
+    "new_price": 249.9,
+    "percentage_increase": 28.60230547550433,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "AC8239",
+    "name": "KIT BAT.+ COIFA FORD DIANT. FIESTA NOVO/ECOSPORT DP",
+    "old_price": 43.52,
+    "new_price": 55.9,
+    "percentage_increase": 28.446691176470573,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC3185",
+    "name": "COXIM AMORTECEDOR DIANTEIRO FIAT UNO/PALIO",
+    "old_price": 70,
+    "new_price": 89.9,
+    "percentage_increase": 28.428571428571438,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ACP724",
+    "name": "FILTRO AR CABINE NISSAN FRONTIER",
+    "old_price": 42.06,
+    "new_price": 53.99,
+    "percentage_increase": 28.36424155967665,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ART9618",
+    "name": "FILTRO AR TRAPEZOIDAL FORD ECOSPORT",
+    "old_price": 49.9,
+    "new_price": 63.99,
+    "percentage_increase": 28.236472945891787,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL8109",
+    "name": "FILTRO AR CITROEN C4 PALLAS/PEUGEOT 307",
+    "old_price": 66.99,
+    "new_price": 85.9,
+    "percentage_increase": 28.22809374533514,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "NY-7749",
+    "name": "TENSOR VW GOL/GOLF/JETTA 01/13 16V",
+    "old_price": 164,
+    "new_price": 209.99,
+    "percentage_increase": 28.042682926829276,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "ACP205",
+    "name": "FILTRO AR CABINE FORD ECOSPORT/NEW FIESTA",
+    "old_price": 20.3,
+    "new_price": 25.99,
+    "percentage_increase": 28.029556650246295,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "6009",
+    "name": "PIVO FIAT INFERIOR UNO/ELBA/FIORINO",
+    "old_price": 42.99,
+    "new_price": 54.99,
+    "percentage_increase": 27.91346824842987,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "AC9126",
+    "name": "KIT BAT.+ COIFA FIAT TRAS. PALIO DP",
+    "old_price": 28.16,
+    "new_price": 35.99,
+    "percentage_increase": 27.805397727272734,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "V013",
+    "name": "TERMINAL AXIAL FIAT TIPO-TEMPRA-",
+    "old_price": 36,
+    "new_price": 45.99,
+    "percentage_increase": 27.750000000000007,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "SP004",
+    "name": "AMORTECEDOR TOYOTA TRAS ETIOS TODOS 12...",
+    "old_price": 199.99,
+    "new_price": 254.9,
+    "percentage_increase": 27.45637281864093,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "WFC595",
+    "name": "FILTRO CAMBIO AUTOMÁTICO TOYOTA",
+    "old_price": 196.14,
+    "new_price": 249.9,
+    "percentage_increase": 27.408993576017142,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "AC1381A",
+    "name": "COXIM AMORTECEDOR DIANTEIRO GM CORSA/PRISMA",
+    "old_price": 58.88,
+    "new_price": 74.99,
+    "percentage_increase": 27.36073369565216,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC773",
+    "name": "KIT BAT.+ COIFA FORD DIAT NEW FIESTA/11..",
+    "old_price": 31.41,
+    "new_price": 39.99,
+    "percentage_increase": 27.316141356255976,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC8965D",
+    "name": "KIT BAT.+ COIFA HONDA CIVIC * COXIM",
+    "old_price": 165,
+    "new_price": 209.99,
+    "percentage_increase": 27.266666666666673,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC8965E",
+    "name": "KIT BAT.+ COIFA HONDA CIVIC * COXIM",
+    "old_price": 165,
+    "new_price": 209.99,
+    "percentage_increase": 27.266666666666673,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "UB947",
+    "name": "BOMBA D'ÁGUA FORD",
+    "old_price": 117.87,
+    "new_price": 149.99,
+    "percentage_increase": 27.250360566726055,
+    "item_group": "Bomba D'agua"
+  },
+  {
+    "fabrication_code": "AC5937",
+    "name": "COXIM AMORTECEDOR DIANTEIRO LD PEUGEOT 206 1.0 98",
+    "old_price": 109.99,
+    "new_price": 139.9,
+    "percentage_increase": 27.19338121647424,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC8470",
+    "name": "KIT BAT + COIFA VW GOL / PARATI / SAVEIRO (TRASEIRO) DP",
+    "old_price": 47.22,
+    "new_price": 59.99,
+    "percentage_increase": 27.043625582380354,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ACP552",
+    "name": "FILTRO AR CABINE RENAULT CLIO 1.6/2.0 -SCENIC",
+    "old_price": 25.9,
+    "new_price": 32.9,
+    "percentage_increase": 27.027027027027028,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "GI50/7",
+    "name": "FILTRO COMBUSTIVEL RENAULT CLIO",
+    "old_price": 18.82,
+    "new_price": 23.9,
+    "percentage_increase": 26.99256110520722,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "AC4202",
+    "name": "COXIM AMORTECEDOR DIANTEIRO FORD FOCUS 2013..",
+    "old_price": 149.73,
+    "new_price": 189.99,
+    "percentage_increase": 26.888399118413158,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "NY-7736",
+    "name": "TENSOR DA CORREIA DENTADA VW/AUDI",
+    "old_price": 110.34,
+    "new_price": 139.99,
+    "percentage_increase": 26.871488127605588,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "ACP202",
+    "name": "FILTRO AR CABINE FORD FIESTA/ECOSPORT/FUSION",
+    "old_price": 22.03,
+    "new_price": 27.9,
+    "percentage_increase": 26.645483431684053,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PSL166",
+    "name": "FILTRO OLEO CRETA /HB20/DUSTER",
+    "old_price": 29.19,
+    "new_price": 36.9,
+    "percentage_increase": 26.413155190133597,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "WEOC001",
+    "name": "FILTRO CAMBIO AUTOMÁTICO NISSAN/RENAULT",
+    "old_price": 87,
+    "new_price": 109.9,
+    "percentage_increase": 26.321839080459775,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "AC9100",
+    "name": "KIT BAT.+ COIFA FIAT UNO/FIORINO DP",
+    "old_price": 23.76,
+    "new_price": 29.99,
+    "percentage_increase": 26.220538720538705,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "HF-298",
+    "name": "DISCO DE FREIO DIANTEIRO   PEUGEOT 306 1.4  / 207 SW 1.4",
+    "old_price": 118.93,
+    "new_price": 149.99,
+    "percentage_increase": 26.116202808374673,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "N6075",
+    "name": "PIVO FIAT PIVO IDEA 04> - LE/LD",
+    "old_price": 95.99,
+    "new_price": 120.99,
+    "percentage_increase": 26.044379622877383,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PEL119",
+    "name": "FILTRO OLEO FIAT BRAVO PALIO WEEKEND/IDEA/DOBLO",
+    "old_price": 30.07,
+    "new_price": 37.9,
+    "percentage_increase": 26.039241769205184,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "C3411",
+    "name": "CILINDRO DE FREIO FIAT BRAVA DOBLO IDEA PALIO",
+    "old_price": 76.18,
+    "new_price": 95.99,
+    "percentage_increase": 26.0042005775794,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "V402",
+    "name": "TERMINAL AXIAL TOYOTA COROLA 2008",
+    "old_price": 94.38,
+    "new_price": 118.9,
+    "percentage_increase": 25.980080525535083,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "PSL714",
+    "name": "FILTRO OLEO FORD RANGER",
+    "old_price": 49.99,
+    "new_price": 62.9,
+    "percentage_increase": 25.82516503300659,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "HF-20A",
+    "name": "DISCO DE FREIO GM CORSA-MERIVA-MONTANA ARO-14",
+    "old_price": 139.99,
+    "new_price": 175.9,
+    "percentage_increase": 25.65183227373383,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "PEL677",
+    "name": "FILTRO OLEO AUDI A4/A5 VW AMAROK",
+    "old_price": 49.5,
+    "new_price": 61.99,
+    "percentage_increase": 25.232323232323235,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "PSL917",
+    "name": "FILTRO OLEO COROLA 20/...",
+    "old_price": 32.76,
+    "new_price": 40.99,
+    "percentage_increase": 25.12210012210014,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "5PK1030",
+    "name": "CORREIA GM ELASTICA PRISMA CELTA",
+    "old_price": 80,
+    "new_price": 99.99,
+    "percentage_increase": 24.987499999999994,
+    "item_group": "Correias"
+  },
+  {
+    "fabrication_code": "AC8922",
+    "name": "KIT BAT.+ COIFA HONDA TRAS. HONDA FIT",
+    "old_price": 40,
+    "new_price": 49.99,
+    "percentage_increase": 24.975000000000005,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "PEL674",
+    "name": "FILTRO OLEO GM CRUZER",
+    "old_price": 44.01,
+    "new_price": 54.99,
+    "percentage_increase": 24.948875255623733,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "HF-752",
+    "name": "DISCO DE FREIO PEUGEOT DIANT.VENT. 307 01>",
+    "old_price": 192,
+    "new_price": 239.9,
+    "percentage_increase": 24.94791666666667,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "PSL562",
+    "name": "FILTRO OLEO VW GOL/SAVEIRO",
+    "old_price": 22.34,
+    "new_price": 27.9,
+    "percentage_increase": 24.888093106535358,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V404",
+    "name": "TERMINAL AXIAL RENAULT LOGAN/SAND. 07.",
+    "old_price": 80,
+    "new_price": 99.9,
+    "percentage_increase": 24.875000000000007,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ACP708",
+    "name": "FILTRO AR CABINE HONDA NEW CIVIC 06>",
+    "old_price": 25.65,
+    "new_price": 31.99,
+    "percentage_increase": 24.717348927875243,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC4301",
+    "name": "ROLAMENTO COXIM GM COBALT/ONIX/PRISMA",
+    "old_price": 23.99,
+    "new_price": 29.9,
+    "percentage_increase": 24.635264693622343,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "SP263",
+    "name": "AMORTECEDOR GM TRAS. MONTANA TDS 04>",
+    "old_price": 203,
+    "new_price": 252.9,
+    "percentage_increase": 24.58128078817734,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "PSL332",
+    "name": "FILTRO OLEO KIA BONGO K2500 K2700",
+    "old_price": 44.97,
+    "new_price": 55.99,
+    "percentage_increase": 24.50522570602625,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "PSL560",
+    "name": "FILTRO OLEO VW GOL",
+    "old_price": 21.61,
+    "new_price": 26.9,
+    "percentage_increase": 24.479407681628874,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "GI12/7",
+    "name": "FILTRO COMBUSTIVEL VW GOL/FOX SAV. 03>",
+    "old_price": 32.15,
+    "new_price": 39.99,
+    "percentage_increase": 24.38569206842925,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "20801",
+    "name": "BUCHA FIAT BRACO SUSP.DIANT.UNO(CARRETEL)",
+    "old_price": 29,
+    "new_price": 35.99,
+    "percentage_increase": 24.10344827586208,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "ACP888",
+    "name": "FILTRO AR CABINE TOYOTA ETIOS 13>",
+    "old_price": 33.78,
+    "new_price": 41.9,
+    "percentage_increase": 24.03789224393131,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "JE5185;N9235",
+    "name": "PIVO RENAULT LOGAN/SANDEIRO 07>09 E/D",
+    "old_price": 57.99,
+    "new_price": 71.9,
+    "percentage_increase": 23.986894292119338,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP709",
+    "name": "FILTRO AR CABINE HONDA NEW FIT 2009>:",
+    "old_price": 24.23,
+    "new_price": 29.99,
+    "percentage_increase": 23.772183243912494,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "N1033;JE3898",
+    "name": "PIVO VW SAVEIRO",
+    "old_price": 89,
+    "new_price": 109.99,
+    "percentage_increase": 23.584269662921344,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PSL77",
+    "name": "FILTRO OLEO RENAULT MEGANE",
+    "old_price": 25.08,
+    "new_price": 30.99,
+    "percentage_increase": 23.56459330143541,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "BDJ2023",
+    "name": "BANDEJA GM CORSA-NONO 20002/2012",
+    "old_price": 299.57,
+    "new_price": 369.99,
+    "percentage_increase": 23.50702673832494,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "BDJ2022",
+    "name": "BANDEJA GM CORSA-NOVO 2002/2012",
+    "old_price": 299.57,
+    "new_price": 369.99,
+    "percentage_increase": 23.50702673832494,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "19328",
+    "name": "BUCHA FIAT BUCHA DA CAIXA DIR. PALIO",
+    "old_price": 13,
+    "new_price": 16,
+    "percentage_increase": 23.076923076923077,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "ALR0013",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO FIAT LINEA/PUNTO/TIPO",
+    "old_price": 113.67,
+    "new_price": 139.9,
+    "percentage_increase": 23.07556963138911,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "UB773",
+    "name": "BOMBA D AGUA FIAT",
+    "old_price": 146.29,
+    "new_price": 179.99,
+    "percentage_increase": 23.036434479458624,
+    "item_group": "Bomba D'agua"
+  },
+  {
+    "fabrication_code": "40010",
+    "name": "SAPATA DE FREIO TOYOTA PRECO UNIT HILLUX 4X4 92/",
+    "old_price": 200,
+    "new_price": 245.99,
+    "percentage_increase": 22.995000000000005,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "PEC3041",
+    "name": "FILTRO COMBUSTIVEL JEEP COMPASS",
+    "old_price": 195.67,
+    "new_price": 239.99,
+    "percentage_increase": 22.650380743087865,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "ALR0015",
+    "name": "ROLAMENTO RODA DIANTEIRA S/ABS FIAT PALIO/GRANDSIENA/UNO",
+    "old_price": 105.99,
+    "new_price": 129.99,
+    "percentage_increase": 22.64364562694595,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "PSL545",
+    "name": "FILTRO OLEO VW UP 13>",
+    "old_price": 30.11,
+    "new_price": 36.9,
+    "percentage_increase": 22.550647625373628,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "BAH1",
+    "name": "LAMPADA  DIVERSAS FAROL DIODO S/RABICHO 12V55",
+    "old_price": 22.03,
+    "new_price": 26.9,
+    "percentage_increase": 22.106218792555595,
+    "item_group": "Lampada"
+  },
+  {
+    "fabrication_code": "PSL323",
+    "name": "FILTRO OLEO KIA K2700 BONGO 97",
+    "old_price": 45,
+    "new_price": 54.9,
+    "percentage_increase": 21.999999999999996,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ARL5135",
+    "name": "FILTRO AR RENAULT KWID",
+    "old_price": 40.99,
+    "new_price": 49.99,
+    "percentage_increase": 21.956574774335202,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "118363",
+    "name": "OLEO GL4 SAE 140 IPIRANGA",
+    "old_price": 40.99,
+    "new_price": 49.99,
+    "percentage_increase": 21.956574774335202,
+    "item_group": "Lubrificantes Motor"
+  },
+  {
+    "fabrication_code": "GI08/1",
+    "name": "FILTRO COMBUSTIVEL VW GOL/PARATI/SAVEIRO",
+    "old_price": 27.08,
+    "new_price": 32.99,
+    "percentage_increase": 21.82422451994093,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "ARL5053",
+    "name": "FILTRO AR PEUGEOT 208",
+    "old_price": 45.93,
+    "new_price": 55.9,
+    "percentage_increase": 21.706945351622032,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL5138",
+    "name": "FILTRO AR NISSAN MARCH - RENAULT CLIO/LOGAN/SANDERO 1.0 16V",
+    "old_price": 35.33,
+    "new_price": 42.9,
+    "percentage_increase": 21.426549674497597,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "503449V",
+    "name": "PIVO GM CRUZE 2016/2021",
+    "old_price": 82.35,
+    "new_price": 99.99,
+    "percentage_increase": 21.420765027322407,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PEL727",
+    "name": "FILTRO OLEO FIAT TORO DISEL 2.0 16V 2016...",
+    "old_price": 75.85,
+    "new_price": 91.99,
+    "percentage_increase": 21.278839815425183,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC8129",
+    "name": "KIT BAT.+ COIFA FIAT DIANT. DOBLO",
+    "old_price": 65.99,
+    "new_price": 79.99,
+    "percentage_increase": 21.215335656917716,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "PSL145",
+    "name": "FILTRO OLEO FORD KA/FIESTA 1.0/1.3",
+    "old_price": 20.55,
+    "new_price": 24.9,
+    "percentage_increase": 21.16788321167882,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC979",
+    "name": "COXIM MOTOR SUPORTE INFERIOR PEUGEOT 205/306/309/405/406/605",
+    "old_price": 33,
+    "new_price": 39.9,
+    "percentage_increase": 20.909090909090907,
+    "item_group": "Coxim Motor"
+  },
+  {
+    "fabrication_code": "ACP307",
+    "name": "FILTRO AR CABINE VW AMAROK 10>",
+    "old_price": 33.08,
+    "new_price": 39.99,
+    "percentage_increase": 20.888754534461924,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PEL680",
+    "name": "FILTRO OLEO VW JETTA 2.0 2010...",
+    "old_price": 53.77,
+    "new_price": 64.99,
+    "percentage_increase": 20.866654268179268,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC8979",
+    "name": "KIT BAT.+ COIFA CITROEN C4 PEGEOT 307 TRAS.C/COXIN 1PÇ",
+    "old_price": 95.99,
+    "new_price": 115.99,
+    "percentage_increase": 20.835503698301906,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "BAH7",
+    "name": "LAMPADA FIAT UNO 12V 55W PX26D",
+    "old_price": 30.63,
+    "new_price": 36.99,
+    "percentage_increase": 20.763956904995112,
+    "item_group": "Lampada"
+  },
+  {
+    "fabrication_code": "WOE681",
+    "name": "FILTRO OLEO VW AMAROK CD HI 3.0 V6 225CV 2018",
+    "old_price": 59.57,
+    "new_price": 71.9,
+    "percentage_increase": 20.698338089642444,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "3537",
+    "name": "BUCHA GM +SUP.TENS.DT. CORSA S/CHAPA",
+    "old_price": 57.99,
+    "new_price": 69.99,
+    "percentage_increase": 20.693222969477485,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "3536",
+    "name": "BUCHA GM +SUP.TENS.ES. CORSA S/CHAPA",
+    "old_price": 57.99,
+    "new_price": 69.99,
+    "percentage_increase": 20.693222969477485,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "PSL127",
+    "name": "FILTRO OLEO TOYOTA HILUX",
+    "old_price": 28.17,
+    "new_price": 33.99,
+    "percentage_increase": 20.66027689030884,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V289",
+    "name": "TERMINAL AXIAL GM CORSA 05> DH/DM",
+    "old_price": 90.26,
+    "new_price": 108.9,
+    "percentage_increase": 20.65145136272989,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "HG31100",
+    "name": "AMORTECEDOR FORD DIANT.FIESTA 02>2014",
+    "old_price": 223.99,
+    "new_price": 269.9,
+    "percentage_increase": 20.49645073440777,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "PSL144",
+    "name": "FILTRO OLEO FORD FOCUS",
+    "old_price": 34.02,
+    "new_price": 40.99,
+    "percentage_increase": 20.48794826572604,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC1922",
+    "name": "COXIM AMORTECEDOR DIANTEIRO HYUNDAI I30",
+    "old_price": 171,
+    "new_price": 205.99,
+    "percentage_increase": 20.461988304093573,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "PSL129",
+    "name": "FILTRO OLEO TOYOTA COROLA 1.6 16V08 ...YARYS FLEX1.5/1.3 16V /ETYOS 16 ...",
+    "old_price": 37.35,
+    "new_price": 44.99,
+    "percentage_increase": 20.455153949129855,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "PEL114",
+    "name": "FILTRO OLEO HYUNDAI AZERA/SONATA - KIA CARNIVAL/SORENTO",
+    "old_price": 63.09,
+    "new_price": 75.99,
+    "percentage_increase": 20.446980504041832,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ACP814",
+    "name": "FILTRO AR CABINE HYUNDAI SONATA 1.4 16V 10>",
+    "old_price": 29,
+    "new_price": 34.9,
+    "percentage_increase": 20.344827586206893,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "G8064",
+    "name": "AMORTECEDOR FIAT AMORT DIANT PUNTO",
+    "old_price": 382.99,
+    "new_price": 459.9,
+    "percentage_increase": 20.081464267996544,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "G8063",
+    "name": "AMORTECEDOR FIAT AMORT DIANT.PUNTO",
+    "old_price": 382.99,
+    "new_price": 459.9,
+    "percentage_increase": 20.081464267996544,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "PSL321",
+    "name": "FILTRO OLEO KIA SPORTAGE 95",
+    "old_price": 44.17,
+    "new_price": 52.99,
+    "percentage_increase": 19.968304278922343,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "5031",
+    "name": "BUCHA GM BANDEJA SUP. S/10 -BLAZER",
+    "old_price": 30,
+    "new_price": 35.99,
+    "percentage_increase": 19.966666666666676,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC19348",
+    "name": "COXIM CAMBIO TRASEIRO ESQUERDO FIAT PALIO/WEEK/SIENA",
+    "old_price": 30,
+    "new_price": 35.99,
+    "percentage_increase": 19.966666666666676,
+    "item_group": "Coxim Cambio"
+  },
+  {
+    "fabrication_code": "ACP904",
+    "name": "FILTRO AR CABINE FIAT PUNTO",
+    "old_price": 25,
+    "new_price": 29.99,
+    "percentage_increase": 19.959999999999994,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "HFCD86",
+    "name": "CUBO DA RODA VW RODA DIANT. POLO 02>",
+    "old_price": 199.99,
+    "new_price": 239.9,
+    "percentage_increase": 19.955997799889992,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "AR2147",
+    "name": "FILTRO AR FIAT 147 76>87",
+    "old_price": 29.99,
+    "new_price": 35.9,
+    "percentage_increase": 19.70656885628543,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC8939",
+    "name": "KIT BAT. TRASEIRO COROLA 02/08",
+    "old_price": 50.19,
+    "new_price": 59.99,
+    "percentage_increase": 19.525801952580206,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC6610",
+    "name": "COIFA FIAT HOMOCINETICA PALIO/UNO/TIPO S/ROL.",
+    "old_price": 14.24,
+    "new_price": 16.99,
+    "percentage_increase": 19.311797752808975,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "PVI1047;JE4870",
+    "name": "PIVO GM CORSA 02/ - MONTANA",
+    "old_price": 66.36,
+    "new_price": 78.99,
+    "percentage_increase": 19.032549728752254,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ARL6090",
+    "name": "FILTRO AR VW GOL-ESCORT",
+    "old_price": 30.18,
+    "new_price": 35.9,
+    "percentage_increase": 18.952948972829688,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "N1059;503120",
+    "name": "PIVO VW L.D. GOLF GER.4 - AUDI A3",
+    "old_price": 83.99,
+    "new_price": 99.9,
+    "percentage_increase": 18.942731277533053,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "PEC3029",
+    "name": "FILTRO COMBUSTIVEL GM S10",
+    "old_price": 84.12,
+    "new_price": 99.99,
+    "percentage_increase": 18.865905848787435,
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "PSL76",
+    "name": "FILTRO OLEO RENAULT KWID 2017",
+    "old_price": 27.76,
+    "new_price": 32.99,
+    "percentage_increase": 18.840057636887607,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "NY-7792",
+    "name": "TENSOR GM CELTA/AGILE/DOBLO/PUNTO/PALIO",
+    "old_price": 100.99,
+    "new_price": 119.99,
+    "percentage_increase": 18.813743935043075,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "N1014;PVI1009",
+    "name": "PIVO VW GOL/SAVEIRO 97....LE",
+    "old_price": 63.06,
+    "new_price": 74.9,
+    "percentage_increase": 18.77576910878529,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "C3527",
+    "name": "CILINDRO DE FREIO VW TRAS. GOL G4 /G5 09> S/ABS",
+    "old_price": 72.44,
+    "new_price": 85.99,
+    "percentage_increase": 18.70513528437327,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "ARL2337",
+    "name": "FILTRO AR KIA SPORTAGE",
+    "old_price": 61.5,
+    "new_price": 72.99,
+    "percentage_increase": 18.682926829268283,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC3334",
+    "name": "BUCHA GM BAND. INF. CORSA 02>",
+    "old_price": 58.99,
+    "new_price": 69.99,
+    "percentage_increase": 18.64722834378707,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "FI/91CP",
+    "name": "SAPATA DE FREIO FIAT PALIO/IDEIA/STRADA/FIORINO",
+    "old_price": 130.59,
+    "new_price": 154.9,
+    "percentage_increase": 18.615514204763002,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "SP045",
+    "name": "AMORTECEDOR GM DIANT. AGILE 09>",
+    "old_price": 311.99,
+    "new_price": 369.99,
+    "percentage_increase": 18.590339433956217,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "PSL418",
+    "name": "FILTRO OLEO VOLVO B58-58E",
+    "old_price": 37.99,
+    "new_price": 44.99,
+    "percentage_increase": 18.425901553040273,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V409",
+    "name": "TERMINAL AXIAL FORD FIESTA 2011 >",
+    "old_price": 64.99,
+    "new_price": 76.9,
+    "percentage_increase": 18.32589629173721,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "1244",
+    "name": "TENSOR PEUGEOT 206 1.6 8V",
+    "old_price": 109.99,
+    "new_price": 129.99,
+    "percentage_increase": 18.1834712246568,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "XS10554",
+    "name": "CABO DE VELA VW: FOX/CROSSFOX",
+    "old_price": 121.84,
+    "new_price": 143.93,
+    "percentage_increase": 18.130334865397245,
+    "item_group": "Cabo Igniçao"
+  },
+  {
+    "fabrication_code": "ACP367",
+    "name": "FILTRO AR CABINE VW UP! 2013",
+    "old_price": 33.92,
+    "new_price": 39.99,
+    "percentage_increase": 17.89504716981132,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "UB162",
+    "name": "BOMBA D'ÁGUA GM E FIAT",
+    "old_price": 118.8,
+    "new_price": 139.99,
+    "percentage_increase": 17.836700336700346,
+    "item_group": "Bomba D'agua"
+  },
+  {
+    "fabrication_code": "111251",
+    "name": "BUCHA FORD TRAS. BANDEJA DIANT.FIESTA 96/",
+    "old_price": 34,
+    "new_price": 40,
+    "percentage_increase": 17.647058823529413,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "SP019",
+    "name": "AMORTECEDOR LE CORSA/MERIVA 03/12",
+    "old_price": 353.99,
+    "new_price": 415.9,
+    "percentage_increase": 17.489194610017222,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HFCT31",
+    "name": "CUBO DA RODA FIAT C/ROLAM.TRAS. UNO WAY FIORINO",
+    "old_price": 115.99,
+    "new_price": 135.99,
+    "percentage_increase": 17.242865764290038,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "C3472",
+    "name": "CILINDRO DE FREIO FIAT PALIO / SIENA 99>",
+    "old_price": 59.74,
+    "new_price": 69.99,
+    "percentage_increase": 17.15768329427518,
+    "item_group": "Cilindro de roda"
+  },
+  {
+    "fabrication_code": "ALR803775",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO GM CORSA/MERIVA/MONTANA",
+    "old_price": 85.33,
+    "new_price": 99.9,
+    "percentage_increase": 17.074885737724138,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "27016",
+    "name": "AMORTECEDOR FIAT TR WEEKE.ADVENTURE /00",
+    "old_price": 175.99,
+    "new_price": 205.99,
+    "percentage_increase": 17.046423092221147,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC775",
+    "name": "KIT BAT + COIFA TRASEIRO DP ECOSPORT",
+    "old_price": 31.62,
+    "new_price": 36.99,
+    "percentage_increase": 16.98292220113852,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "HG31216",
+    "name": "AMORTECEDOR HYUNDAI I30 DIREITO DIANTEIRO",
+    "old_price": 341.99,
+    "new_price": 399.9,
+    "percentage_increase": 16.933243662095375,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HG31217",
+    "name": "AMORTECEDOR HYUNDAI I30 ESQUERDO DIANTEIRO",
+    "old_price": 341.99,
+    "new_price": 399.9,
+    "percentage_increase": 16.933243662095375,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "LH3",
+    "name": "LAMPADA DIVERSOS FAROL BIODO 12V55",
+    "old_price": 6,
+    "new_price": 6.99,
+    "percentage_increase": 16.500000000000004,
+    "item_group": "Lampada"
+  },
+  {
+    "fabrication_code": "JE5136;503314",
+    "name": "PIVO CITROEN C3 2003>",
+    "old_price": 97.02,
+    "new_price": 112.9,
+    "percentage_increase": 16.36775922490209,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ACP210",
+    "name": "FILTRO AR CABINE FORD FUSION",
+    "old_price": 42.99,
+    "new_price": 49.99,
+    "percentage_increase": 16.282856478250753,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "SP044",
+    "name": "AMORTECEDOR GM TRAS. VCTRA 2.0 06>",
+    "old_price": 249.99,
+    "new_price": 289.99,
+    "percentage_increase": 16.000640025601022,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC8255",
+    "name": "KIT BAT + COIFA,COXIM COMPL FIESTA DIANTEIRA",
+    "old_price": 320.38,
+    "new_price": 369.9,
+    "percentage_increase": 15.456645233784874,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ACP551",
+    "name": "FILTRO AR CABINE RENAULT MEGANE 2006>",
+    "old_price": 37.2,
+    "new_price": 42.9,
+    "percentage_increase": 15.322580645161278,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC8212",
+    "name": "KIT BAT.+ COIFA FORD DIANT. FIESTA DP",
+    "old_price": 39.9,
+    "new_price": 45.99,
+    "percentage_increase": 15.263157894736851,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "N6026;PVI1039",
+    "name": "PIVO FIAT  PALIO/WEEKEND/SIENA 97/00",
+    "old_price": 67.67,
+    "new_price": 77.9,
+    "percentage_increase": 15.11748189744348,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ARL6080",
+    "name": "FILTRO AR VW FOX/ POLO/ SAVEIRO/ T-CROSS/ VIRTUS..",
+    "old_price": 34.76,
+    "new_price": 39.99,
+    "percentage_increase": 15.046029919447653,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "HG33076",
+    "name": "AMORTECEDOR FIAT DIANT. GRAND SIENA C/ESTAB.LE",
+    "old_price": 373.99,
+    "new_price": 429.99,
+    "percentage_increase": 14.973662397390305,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HG33075",
+    "name": "AMORTECEDOR FIAT DIANT.GRANDE SIENA C/ESTAB.LD",
+    "old_price": 373.99,
+    "new_price": 429.9,
+    "percentage_increase": 14.949597582823063,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HFCT44A",
+    "name": "CUBO DA RODA FIAT + ABS TRASEIRO DOUB STRA FIOR 10..",
+    "old_price": 148,
+    "new_price": 169.9,
+    "percentage_increase": 14.797297297297302,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "ARL4160",
+    "name": "FILTRO AR FIAT ARGO1.8 FLEX 2017",
+    "old_price": 52.36,
+    "new_price": 59.99,
+    "percentage_increase": 14.57219251336899,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "111250",
+    "name": "BUCHA FORD TRAS. BANDEJA DIANT. COURIER",
+    "old_price": 55,
+    "new_price": 62.99,
+    "percentage_increase": 14.527272727272731,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "ACP972",
+    "name": "FILTRO AR CABINE KIA//HYUNDAI",
+    "old_price": 20,
+    "new_price": 22.9,
+    "percentage_increase": 14.499999999999993,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "SP192",
+    "name": "AMORTECEDOR CITROEN DIANT. C3 01> TDS",
+    "old_price": 387.14,
+    "new_price": 442.99,
+    "percentage_increase": 14.426305729193581,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP191",
+    "name": "AMORTECEDOR CITROEN DIANT. C3 01> TDS",
+    "old_price": 387.14,
+    "new_price": 442.9,
+    "percentage_increase": 14.403058325153689,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "27251",
+    "name": "AMORTECEDOR HONDA NEW",
+    "old_price": 227.31,
+    "new_price": 259.9,
+    "percentage_increase": 14.33724869121463,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP115",
+    "name": "AMORTECEDOR FIAT TRAS GRANDE SIENA",
+    "old_price": 201.19,
+    "new_price": 229.9,
+    "percentage_increase": 14.27009294696556,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "19082",
+    "name": "BUCHA FIAT + SUP.TENS.DIANT.DIR. PALIO DM",
+    "old_price": 35,
+    "new_price": 39.99,
+    "percentage_increase": 14.257142857142863,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "1024",
+    "name": "HOMOCINETICA VW JUNTA DESLIZ. SAVEIRO 1.6-1.8",
+    "old_price": 280,
+    "new_price": 319.9,
+    "percentage_increase": 14.249999999999993,
+    "item_group": "Kit Junta"
+  },
+  {
+    "fabrication_code": "G1254;M739",
+    "name": "RESERVATÓRIO DE ÁGUA DO RADIADOR GM",
+    "old_price": 60.31,
+    "new_price": 68.9,
+    "percentage_increase": 14.243077433261487,
+    "item_group": "Reservatorio Agua"
+  },
+  {
+    "fabrication_code": "19559",
+    "name": "BUCHA FIAT BARRA ESTAB. TEMPRA /PALIO",
+    "old_price": 7,
+    "new_price": 7.99,
+    "percentage_increase": 14.142857142857146,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC5987",
+    "name": "BUCHA CITROEN C3 BAND. IANT. LE/LD CHEIA 03>",
+    "old_price": 36,
+    "new_price": 40.99,
+    "percentage_increase": 13.861111111111116,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC1957",
+    "name": "KIT BAT + COIFA DIANTEIRO TOYOTA ETIOS",
+    "old_price": 28.1,
+    "new_price": 31.99,
+    "percentage_increase": 13.84341637010675,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ACP004",
+    "name": "FILTRO AR CABINE GM MERIVA 02>",
+    "old_price": 21,
+    "new_price": 23.9,
+    "percentage_increase": 13.809523809523801,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ACP554",
+    "name": "FILTRO AR CABINE RENAULT LOGAN/SANDEIRO 1.6 11>",
+    "old_price": 24.62,
+    "new_price": 27.99,
+    "percentage_increase": 13.688058489033295,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "SP203",
+    "name": "AMORTECEDOR RENAULT DIANT.SANDERO TDS EXC.STEPW.",
+    "old_price": 496.73,
+    "new_price": 562.99,
+    "percentage_increase": 13.33923862057858,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC9120",
+    "name": "KIT BAT.+ COIFA FIAT COXIM UNO COMPLETO",
+    "old_price": 46.99,
+    "new_price": 52.99,
+    "percentage_increase": 12.76867418599702,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "PEL309",
+    "name": "FILTRO OLEO FORD RANGER",
+    "old_price": 46.99,
+    "new_price": 52.99,
+    "percentage_increase": 12.76867418599702,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "FCA1580",
+    "name": "FILTRO CAMBIO AUTOMATICO HONDA CIVIC 2.0",
+    "old_price": 88.83,
+    "new_price": 99.99,
+    "percentage_increase": 12.56332320162107,
+    "item_group": "Filtro Cambio Automatico"
+  },
+  {
+    "fabrication_code": "ACP550",
+    "name": "FILTRO AR CABINE RENAULT CLIO",
+    "old_price": 24.82,
+    "new_price": 27.9,
+    "percentage_increase": 12.409347300564054,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "503350",
+    "name": "PIVO GM CELTA/PRISMA/CORSA CLAS. 10>",
+    "old_price": 113.91,
+    "new_price": 127.9,
+    "percentage_increase": 12.281625844965331,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ARL6091",
+    "name": "FILTRO AR VW GOL/PARATI/SAVEIRO",
+    "old_price": 26.8,
+    "new_price": 29.99,
+    "percentage_increase": 11.902985074626857,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ALR0055",
+    "name": "ROLAMENTO RODA DUPLO FIAT BRAVA/DOBLO/500/MAREA/PALIO/SIENA/STRADA",
+    "old_price": 160.93,
+    "new_price": 179.99,
+    "percentage_increase": 11.843658733610887,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "V529",
+    "name": "TERMINAL AXIAL FORD ECOSPORT 12>",
+    "old_price": 95.81,
+    "new_price": 106.99,
+    "percentage_increase": 11.668928086838527,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "ARL6071",
+    "name": "FILTRO AR VW GOL G7/FOX/UP!/POLO/VOYAGE",
+    "old_price": 49.22,
+    "new_price": 54.9,
+    "percentage_increase": 11.540024380333197,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC8142",
+    "name": "KIT BAT.+ COIFA FIAT DIANT. NOVO UNO DP",
+    "old_price": 77.99,
+    "new_price": 86.99,
+    "percentage_increase": 11.539941018079242,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "PSL915",
+    "name": "FILTRO OLEO FORD FORD KA 2012...",
+    "old_price": 26.99,
+    "new_price": 29.99,
+    "percentage_increase": 11.115227862171174,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "19081",
+    "name": "BUCHA FIAT + SUP.TENS.DIANT.DIRT.PALIO DH",
+    "old_price": 44.99,
+    "new_price": 49.99,
+    "percentage_increase": 11.113580795732386,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "HF-18B",
+    "name": "DISCO DE FREIO FORD DIANT. FOCUS/ECOSPORT VENT.",
+    "old_price": 176.59,
+    "new_price": 195.9,
+    "percentage_increase": 10.934934027974405,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "335210",
+    "name": "TERMINAL DE DIREÇÃO GM ROSCA DIRT. OPALA/CARAV.",
+    "old_price": 36,
+    "new_price": 39.9,
+    "percentage_increase": 10.83333333333333,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "JE5910;503199;N99090",
+    "name": "PIVO HONDA NEW CIVIC 1.7 16V 115CV",
+    "old_price": 153.54,
+    "new_price": 169.99,
+    "percentage_increase": 10.713820502800585,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "JE5909;503198;N99091",
+    "name": "PIVO HONDA NEW CIVIC 1.7 16V 115CV",
+    "old_price": 153.54,
+    "new_price": 169.99,
+    "percentage_increase": 10.713820502800585,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ALR4074",
+    "name": "ROLAMENTO RODA DIANT. DUPLO TOYOTA COROLLA",
+    "old_price": 131.99,
+    "new_price": 145.9,
+    "percentage_increase": 10.538677172513065,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "46083",
+    "name": "AMORTECEDOR VW -DIANT. GOL/PARATI/ G2G3G4",
+    "old_price": 123.08,
+    "new_price": 135.99,
+    "percentage_increase": 10.489112772180704,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL4150",
+    "name": "FILTRO AR FIAT SIENA/STRADA/PALIO",
+    "old_price": 21.66,
+    "new_price": 23.9,
+    "percentage_increase": 10.341643582640806,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC2921",
+    "name": "COXIM AMORTECEDOR DIANTEIRO RENAULT MEGANE/SCENIC",
+    "old_price": 154,
+    "new_price": 169.9,
+    "percentage_increase": 10.324675324675328,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "HF-02A",
+    "name": "DISCO DE FREIO VW - PAR - -GOL/PAR/SANT. VENTILADO",
+    "old_price": 96.05,
+    "new_price": 105.9,
+    "percentage_increase": 10.255075481520052,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "PEL211",
+    "name": "FILTRO OLEO BMW",
+    "old_price": 59.86,
+    "new_price": 65.99,
+    "percentage_increase": 10.240561309722679,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC8145",
+    "name": "KIT BAT.+ COIFA FIAT DT. N.UNO/G.SIENA/MOBI/FIORINO",
+    "old_price": 273.27,
+    "new_price": 299.99,
+    "percentage_increase": 9.777875361364229,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL6070",
+    "name": "FILTRO AR VW AMAROK",
+    "old_price": 114.16,
+    "new_price": 124.99,
+    "percentage_increase": 9.486685353889277,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "N1070;503194",
+    "name": "PIVO VW LD - CROSSFOX",
+    "old_price": 116.27,
+    "new_price": 126.99,
+    "percentage_increase": 9.219919153693988,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "VKBA3554",
+    "name": "KIT ROLAMENTO DE RODA CITROEN C3 PEUGEOT 206",
+    "old_price": 198,
+    "new_price": 215.99,
+    "percentage_increase": 9.08585858585859,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "HF-31",
+    "name": "DISCO DE FREIO FIAT -PAR - DIANT.UNO/FIOR./ELBA/PALIO",
+    "old_price": 100.91,
+    "new_price": 109.99,
+    "percentage_increase": 8.998117134079871,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "G1322;M520",
+    "name": "RESERVATÓRIO DE ÁGUA DO RADIADOR FIAT",
+    "old_price": 69.64,
+    "new_price": 75.9,
+    "percentage_increase": 8.989086731763361,
+    "item_group": "Reservatorio Agua"
+  },
+  {
+    "fabrication_code": "ALR2552",
+    "name": "ROLAMENTO RODA TRASEIRO CITROEN C3 PEUGEOT 208",
+    "old_price": 103.78,
+    "new_price": 112.9,
+    "percentage_increase": 8.78782038928503,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "ACP005",
+    "name": "FILTRO AR CABINE GM CORSA/MONT. 02>",
+    "old_price": 22.99,
+    "new_price": 24.99,
+    "percentage_increase": 8.699434536755112,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "V301",
+    "name": "TERMINAL AXIAL RENAULT SENIC MEGANE 03/07...",
+    "old_price": 45.99,
+    "new_price": 49.99,
+    "percentage_increase": 8.697542944118286,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "SP206",
+    "name": "AMORTECEDOR FORD ECOSPORT 1.0SC/LS/HS/1.4DIANT",
+    "old_price": 317.53,
+    "new_price": 344.9,
+    "percentage_increase": 8.61965798507228,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP386",
+    "name": "AMORTECEDOR PEUGEOT DIANT.207 SEDAN/HACTH/SW 08>LE",
+    "old_price": 349.95,
+    "new_price": 379.9,
+    "percentage_increase": 8.558365480782966,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL1031",
+    "name": "FILTRO AR HONDA FIT 1.4 FLEX",
+    "old_price": 36,
+    "new_price": 38.99,
+    "percentage_increase": 8.30555555555556,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL6074",
+    "name": "FILTRO AR VW GOLF TSI 1.4 2014...",
+    "old_price": 73.92,
+    "new_price": 79.99,
+    "percentage_increase": 8.211580086580076,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ALR4078",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO C/ABS GM COBALT/ONIX/PRISMA/SPIN/TRACKER",
+    "old_price": 169.07,
+    "new_price": 182.9,
+    "percentage_increase": 8.180043768853146,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "AC5988",
+    "name": "COXIM DO AMORTECEDOR DA SUSPENSÃO DIANTEIRA CITROEN C3 PEUGEOT 208",
+    "old_price": 101.68,
+    "new_price": 109.9,
+    "percentage_increase": 8.084185680566481,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ALR0064",
+    "name": "ROLAMENTO RODA DIANTEIRA DUPLO C/ABS FIAT CRONOS/FIORINO/GRANDSIENA/MOBI/PALIO",
+    "old_price": 153.78,
+    "new_price": 165.99,
+    "percentage_increase": 7.939914163090133,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "AC3259",
+    "name": "ROLAMENTO COXIN FORD FOCUS 2010...",
+    "old_price": 101.99,
+    "new_price": 109.99,
+    "percentage_increase": 7.84390626532013,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "HF-31C",
+    "name": "DISCO DE FREIO FIAT DIANT. NOVO UNO VIVACE 10.>",
+    "old_price": 148.27,
+    "new_price": 159.9,
+    "percentage_increase": 7.843798475753689,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "339824",
+    "name": "AMORTECEDOR DIANTEIRO DIREITO COROLLA 2015...",
+    "old_price": 519.78,
+    "new_price": 559.9,
+    "percentage_increase": 7.718650198160762,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "339825",
+    "name": "AMORTECEDOR DIANTEIRO ESQUERDO COROLLA 2015...",
+    "old_price": 519.78,
+    "new_price": 559.9,
+    "percentage_increase": 7.718650198160762,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "KJH0248",
+    "name": "HOMOCINETICA VW GOL/FOX/SAVEIRO 1,6 08 A 16",
+    "old_price": 218.4,
+    "new_price": 234.99,
+    "percentage_increase": 7.596153846153847,
+    "item_group": "Kit Junta"
+  },
+  {
+    "fabrication_code": "RPP00571HA",
+    "name": "OLEO REPSOL ELITE COMPETICION LONG LIFE 5W30",
+    "old_price": 104.93,
+    "new_price": 112.9,
+    "percentage_increase": 7.59553988373201,
+    "item_group": "Lubrificantes Motor"
+  },
+  {
+    "fabrication_code": "27380",
+    "name": "AMORTECEDOR VW DIANT. SAVEIRO GERAÇAO 5",
+    "old_price": 343.62,
+    "new_price": 368.99,
+    "percentage_increase": 7.383155811652407,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "01002394",
+    "name": "OLEO LUBRAX TOP TURBO ESSENCIAL 15W40 API CI4/SL",
+    "old_price": 34.38,
+    "new_price": 36.9,
+    "percentage_increase": 7.329842931937161,
+    "item_group": "Lubrificantes Motor"
+  },
+  {
+    "fabrication_code": "ALK4529",
+    "name": "KIT RODA TRASEIRA VW GOL/SAVEIRO/FOX",
+    "old_price": 47.57,
+    "new_price": 50.99,
+    "percentage_increase": 7.189405087239861,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "HF-87E",
+    "name": "DISCO DE FREIO VW GOL/VOYAGE/SAVERO G6 13...",
+    "old_price": 224,
+    "new_price": 239.99,
+    "percentage_increase": 7.138392857142861,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "ACP311",
+    "name": "FILTRO AR CABINE AUDI/VW",
+    "old_price": 42.96,
+    "new_price": 45.9,
+    "percentage_increase": 6.843575418994408,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "HFCT87A",
+    "name": "CUBO DA RODA TRASEIRO VW",
+    "old_price": 308.91,
+    "new_price": 329.9,
+    "percentage_increase": 6.794859344145528,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "N3010;JE3967",
+    "name": "PIVO GM CORSA-PICK-UP",
+    "old_price": 86.99,
+    "new_price": 92.9,
+    "percentage_increase": 6.793884354523522,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "ARS7991",
+    "name": "FILTRO AR RADIAL SEAL FORD ECOSPORT 2003>",
+    "old_price": 46.9,
+    "new_price": 49.99,
+    "percentage_increase": 6.588486140724954,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "KJH1619",
+    "name": "HOMOCINETICA FIAT 1.3/1.5/1.6 S/ABS HIDR.98/09",
+    "old_price": 159.5,
+    "new_price": 169.99,
+    "percentage_increase": 6.576802507836995,
+    "item_group": "Kit Junta"
+  },
+  {
+    "fabrication_code": "HF-750",
+    "name": "DISCO DE FREIO PEUGEOT 206/307",
+    "old_price": 165.25,
+    "new_price": 175.9,
+    "percentage_increase": 6.444780635400911,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "SP344",
+    "name": "AMORTECEDOR TRASEIRO ECOSPORT",
+    "old_price": 281.88,
+    "new_price": 299.99,
+    "percentage_increase": 6.4247197388959885,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ARL2204",
+    "name": "FILTRO AR TOYOTA ETIOS - 2013/2015",
+    "old_price": 40.44,
+    "new_price": 42.99,
+    "percentage_increase": 6.305637982195857,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "HF-87",
+    "name": "DISCO DE FREIO VW GOL /VOYAGE 1.0 8V 08> ARO 13",
+    "old_price": 94,
+    "new_price": 99.9,
+    "percentage_increase": 6.276595744680858,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-81B",
+    "name": "DISCO DE FREIO VW",
+    "old_price": 197.89,
+    "new_price": 209.99,
+    "percentage_increase": 6.114508060033364,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "15531095110",
+    "name": "OLEO FUCHS TITAN GT1 FLEX 23 C2/C3 5W30",
+    "old_price": 65.99,
+    "new_price": 69.99,
+    "percentage_increase": 6.061524473405062,
+    "item_group": "Lubrificantes Motor"
+  },
+  {
+    "fabrication_code": "HF-700J",
+    "name": "DISCO DE FREIO HONDA CYTY/FYT1.5 16 V 15 ... WR-V 1.5 16V 18 ...",
+    "old_price": 213.06,
+    "new_price": 225.9,
+    "percentage_increase": 6.026471416502395,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "G1324",
+    "name": "RESERVATÓRIO DE ÁGUA DO RADIADOR FIAT",
+    "old_price": 108.37,
+    "new_price": 114.9,
+    "percentage_increase": 6.025652855956446,
+    "item_group": "Reservatorio Agua"
+  },
+  {
+    "fabrication_code": "HF-705A",
+    "name": "DISCO DE FREIO RENAULT KWID",
+    "old_price": 132.13,
+    "new_price": 139.99,
+    "percentage_increase": 5.948686899265885,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "V134",
+    "name": "TERMINAL AXIAL RENAULT CLIO II-KANGOO 02/...",
+    "old_price": 52,
+    "new_price": 54.99,
+    "percentage_increase": 5.7500000000000036,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "PSL557",
+    "name": "FILTRO OLEO AUDI A4 1.8/2.0 - A5 1.8/2.0",
+    "old_price": 89.99,
+    "new_price": 94.99,
+    "percentage_increase": 5.5561729081009,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC2217",
+    "name": "COXIM AMORTECEDOR TRASEIRO FORD FIESTA/ECOSPORT",
+    "old_price": 80.46,
+    "new_price": 84.9,
+    "percentage_increase": 5.518269947800165,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "ACP312",
+    "name": "FILTRO AR CABINE VW VIRTUS",
+    "old_price": 37.02,
+    "new_price": 38.99,
+    "percentage_increase": 5.321447866018365,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "ACP559",
+    "name": "FILTRO AR CABINE RENO SANDERO",
+    "old_price": 39.81,
+    "new_price": 41.9,
+    "percentage_increase": 5.249937201708104,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC648",
+    "name": "BATENTE CITROEN TRAS. C3",
+    "old_price": 19,
+    "new_price": 19.99,
+    "percentage_increase": 5.2105263157894655,
+    "item_group": "Batentes"
+  },
+  {
+    "fabrication_code": "PVI2104",
+    "name": "PIVÔ KIA/ HYUNDAI SPORTAGE/ IX35",
+    "old_price": 168.26,
+    "new_price": 176.9,
+    "percentage_increase": 5.134910257934159,
+    "item_group": "Pivos"
+  },
+  {
+    "fabrication_code": "0003L",
+    "name": "OLEO LUBRAX 5W30",
+    "old_price": 58.99,
+    "new_price": 61.99,
+    "percentage_increase": 5.0856077301237494,
+    "item_group": "Lubrificantes Motor"
+  },
+  {
+    "fabrication_code": "HF-692",
+    "name": "DISCO DE FREIO PEUGEOT 206 DIANT.SOLIDO 1.0 16V 00>",
+    "old_price": 167.46,
+    "new_price": 175.9,
+    "percentage_increase": 5.0400095545204815,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "ARL4161",
+    "name": "FILTRO AR FIAT ARGO CROMOS UNO 2017..",
+    "old_price": 69.52,
+    "new_price": 72.99,
+    "percentage_increase": 4.991369390103566,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "12299",
+    "name": "TENSOR FIAT UNO/PALIO",
+    "old_price": 60,
+    "new_price": 62.99,
+    "percentage_increase": 4.983333333333337,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "ACP887",
+    "name": "FILTRO AR CABINE TOYOTA HILUX 05>",
+    "old_price": 24.76,
+    "new_price": 25.99,
+    "percentage_increase": 4.96768982229401,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "JHC03113;KJH1617",
+    "name": "HOMOCINETICA FIAT PALIO/STRAD/FIORINO 1.5/1.6 >0",
+    "old_price": 142.99,
+    "new_price": 149.99,
+    "percentage_increase": 4.8954472340723125,
+    "item_group": "Kit Junta"
+  },
+  {
+    "fabrication_code": "HF-703",
+    "name": "DISCO DE FREIO HONDA FIT 1.4/1.5",
+    "old_price": 162.18,
+    "new_price": 169.99,
+    "percentage_increase": 4.815636946602542,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "ARL1043",
+    "name": "FILTRO AR HONDA CIVIC 2016....",
+    "old_price": 98.54,
+    "new_price": 102.9,
+    "percentage_increase": 4.424599147554291,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "S-1154",
+    "name": "PASTILHAS DE FREIO CITROEN C3 PD-648",
+    "old_price": 90,
+    "new_price": 93.9,
+    "percentage_increase": 4.33333333333334,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "ART5054",
+    "name": "FILTRO AR TRAPEZOIDAL RENAULT MEGANE 2006>",
+    "old_price": 86.28,
+    "new_price": 89.99,
+    "percentage_increase": 4.299953639313855,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ARL6096",
+    "name": "FILTRO AR VW GOL 1.0 8V",
+    "old_price": 23.98,
+    "new_price": 24.99,
+    "percentage_increase": 4.211843202668883,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "SA319",
+    "name": "BORRACHA ESCAP.GM ONIX/PRISMA/SONIC/COBALT",
+    "old_price": 10.83,
+    "new_price": 11.28,
+    "percentage_increase": 4.155124653739605,
+    "item_group": "Coxim Escapamento"
+  },
+  {
+    "fabrication_code": "2151-A",
+    "name": "BANDEJA GM DO CORSA LE",
+    "old_price": 124.89,
+    "new_price": 129.9,
+    "percentage_increase": 4.0115301465289495,
+    "item_group": "Bandejas"
+  },
+  {
+    "fabrication_code": "AC8137",
+    "name": "KIT BAT.+ COIFA FIAT TRAS. PUNTO / LINEA TDS DP",
+    "old_price": 57.78,
+    "new_price": 59.99,
+    "percentage_increase": 3.824852890273452,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "SP204",
+    "name": "AMORTECEDOR RENAULT DIANT. SANDEIRO STEPWAY 08>",
+    "old_price": 542.46,
+    "new_price": 562.99,
+    "percentage_increase": 3.784610846882714,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC842",
+    "name": "KIT BAT.+ COIFA FORD FIESTA TRASEIRO /KA DP",
+    "old_price": 48.18,
+    "new_price": 49.99,
+    "percentage_increase": 3.7567455375674603,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL1035",
+    "name": "FILTRO AR HONDA CITY 1.5",
+    "old_price": 67.52,
+    "new_price": 69.99,
+    "percentage_increase": 3.6581753554502354,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC769",
+    "name": "KIT BAT.+ COIFA CITROEN DIANT C3/AIR CROSS/ PEUG 208",
+    "old_price": 96.4,
+    "new_price": 99.9,
+    "percentage_increase": 3.630705394190871,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL2207",
+    "name": "FILTRO AR TOYOTA ETIOS/YARIS - 2016...",
+    "old_price": 46.24,
+    "new_price": 47.9,
+    "percentage_increase": 3.589965397923868,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC8140",
+    "name": "KIT BAT.+ COIFA FIAT - KIT COMPLETO PUNTO LD",
+    "old_price": 193,
+    "new_price": 199.9,
+    "percentage_increase": 3.5751295336787594,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC8140E",
+    "name": "KIT BAT.+ COIFA FIAT - KIT COMPLETO PUNTO LE",
+    "old_price": 193,
+    "new_price": 199.9,
+    "percentage_increase": 3.5751295336787594,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "V192",
+    "name": "TERMINAL AXIAL VW POLO",
+    "old_price": 52.13,
+    "new_price": 53.99,
+    "percentage_increase": 3.568003069249951,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "27237",
+    "name": "AMORTECEDOR FORD ECOSPORT",
+    "old_price": 232.18,
+    "new_price": 239.99,
+    "percentage_increase": 3.3637694891894228,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "19073",
+    "name": "BUCHA FIAT BAND.DIANT.PALIO/SIENA/WEEK",
+    "old_price": 30.99,
+    "new_price": 32,
+    "percentage_increase": 3.2591158438205925,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "HFCT36",
+    "name": "CUBO DA RODA FIAT TRAS.PALIO/WEEK/MAREA/SIENA",
+    "old_price": 188.99,
+    "new_price": 195,
+    "percentage_increase": 3.180062437165983,
+    "item_group": "Cubo de Roda"
+  },
+  {
+    "fabrication_code": "AC32000",
+    "name": "COXIM AMORTECEDOR TOYOTA ETIOS",
+    "old_price": 155.18,
+    "new_price": 159.99,
+    "percentage_increase": 3.0996262404949104,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "SP039",
+    "name": "AMORTECEDOR GM DIANT. ASTRA 8/16V",
+    "old_price": 442.56,
+    "new_price": 455.9,
+    "percentage_increase": 3.0142805495300014,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP040",
+    "name": "AMORTECEDOR GM DIANT. ASTRA 8/16V",
+    "old_price": 442.56,
+    "new_price": 455.9,
+    "percentage_increase": 3.0142805495300014,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP106",
+    "name": "AMORTECEDOR FIAT NOVO UNO VIVACE 10...LD",
+    "old_price": 553.41,
+    "new_price": 569.99,
+    "percentage_increase": 2.9959704378309104,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP107",
+    "name": "AMORTECEDOR FIAT NOVO UNO VIVACE 10...LE",
+    "old_price": 553.41,
+    "new_price": 569.99,
+    "percentage_increase": 2.9959704378309104,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ALR4584",
+    "name": "ROLAMENTO RODA DIANTEIRA HYUNDAI AZERA/CRETA/IX35/SPORTAGE",
+    "old_price": 167,
+    "new_price": 171.9,
+    "percentage_increase": 2.9341317365269495,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "PEL684",
+    "name": "FILTRO OLEO AMAROCK",
+    "old_price": 69,
+    "new_price": 70.99,
+    "percentage_increase": 2.8840579710144856,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "ART6098",
+    "name": "FILTRO AR TRAPEZOIDAL VW GOL 08>FOX 1.6",
+    "old_price": 35.9,
+    "new_price": 36.9,
+    "percentage_increase": 2.785515320334262,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC8977",
+    "name": "KIT BAT.+ COIFA DIANTEIRO HYUNDAI HB20/S",
+    "old_price": 204.24,
+    "new_price": 209.9,
+    "percentage_increase": 2.7712495103799433,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC2244",
+    "name": "BUCHA FORD BAND. FIESTA/ECOSPORT 03>",
+    "old_price": 87.49,
+    "new_price": 89.9,
+    "percentage_increase": 2.7546005257743866,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC6992",
+    "name": "COXIM CAMBIO TRASEIRO PEUGEOT 206",
+    "old_price": 73,
+    "new_price": 74.9,
+    "percentage_increase": 2.602739726027405,
+    "item_group": "Coxim Cambio"
+  },
+  {
+    "fabrication_code": "HF-20",
+    "name": "DISCO DE FREIO GM DIANT. CELTA 1.4 VENT. 03>",
+    "old_price": 116.9,
+    "new_price": 119.9,
+    "percentage_increase": 2.5662959794696323,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HG41117",
+    "name": "AMORTECEDOR FIAT TORO TRAS 16 A 20   1.8/2.0/2.4",
+    "old_price": 322.1,
+    "new_price": 329.99,
+    "percentage_increase": 2.4495498292455715,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP363",
+    "name": "AMORTECEDOR FORD TRAS. FIESTA/KA 10>",
+    "old_price": 263.65,
+    "new_price": 269.99,
+    "percentage_increase": 2.40470320500665,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC9142",
+    "name": "KIT BAT.+ COIFA CITROEN C4 TODOS PALACE/PEUGEOT 307",
+    "old_price": 127.99,
+    "new_price": 130.99,
+    "percentage_increase": 2.3439331197749933,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL1038",
+    "name": "FILTRO AR HONDA",
+    "old_price": 80.3,
+    "new_price": 81.99,
+    "percentage_increase": 2.1046077210460745,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "SP001",
+    "name": "AMORTECEDOR GM TRAS. SPIN 12> TDS",
+    "old_price": 205.7,
+    "new_price": 209.99,
+    "percentage_increase": 2.0855614973262133,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ALR40570",
+    "name": "ROLAMENTO RODA TRASEIRA DUPLO PEUGEOT 205/206/306 CITROEN C3",
+    "old_price": 98,
+    "new_price": 99.99,
+    "percentage_increase": 2.030612244897954,
+    "item_group": "Rolamentos / Kit Roda"
+  },
+  {
+    "fabrication_code": "ARL1655",
+    "name": "FILTRO AR NISSAN VERSA",
+    "old_price": 43.12,
+    "new_price": 43.99,
+    "percentage_increase": 2.017625231910957,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "AC8143",
+    "name": "KIT BAT.+ COIFA FIAT TRAS. UNO NOVO DP",
+    "old_price": 107.94,
+    "new_price": 109.9,
+    "percentage_increase": 1.8158236057068815,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ACP798/9",
+    "name": "FILTRO AR CABINE PEUGEOT 3008/PARTNER/RCZ CITROEN C4/PICASSO",
+    "old_price": 61.78,
+    "new_price": 62.9,
+    "percentage_increase": 1.8128844286176715,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC9307",
+    "name": "KIT BAT.+ COIFA COXIM  TRAS.LE COBAL/ONIX",
+    "old_price": 118.85,
+    "new_price": 120.99,
+    "percentage_increase": 1.8005889777029875,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "ARL 2338",
+    "name": "FILTRO AR MOTOR HB20 12....",
+    "old_price": 61.98,
+    "new_price": 62.99,
+    "percentage_increase": 1.6295579219103022,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "HF-01B",
+    "name": "DISCO DE FREIO VW - PAR - FOX 1.0/1.6-POLO 1.0 03/-02/",
+    "old_price": 143.6,
+    "new_price": 145.9,
+    "percentage_increase": 1.6016713091922086,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "ARL5050",
+    "name": "FILTRO AR PEUGEOT 206 1.6 16V 00>",
+    "old_price": 72.84,
+    "new_price": 73.99,
+    "percentage_increase": 1.578802855573849,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "ACP907",
+    "name": "FILTRO AR CABINE JEEP RENEGADE / TORO 1.8/2.0 15>16>",
+    "old_price": 35.54,
+    "new_price": 35.99,
+    "percentage_increase": 1.2661789532920733,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "S-1361",
+    "name": "PASTILHAS DE FREIO VW DIANT GOLF PD-367",
+    "old_price": 84.99,
+    "new_price": 85.99,
+    "percentage_increase": 1.1766090128250382,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "ARL2220",
+    "name": "FILTRO AR COROLA 20...",
+    "old_price": 79.1,
+    "new_price": 79.99,
+    "percentage_increase": 1.1251580278128959,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "SP252",
+    "name": "AMORTECEDOR TOYOTA COROLLA TRASEIRO 03/08",
+    "old_price": 273,
+    "new_price": 274.99,
+    "percentage_increase": 0.7289377289377323,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HG36032",
+    "name": "AMORTECEDOR FIAT FIORINO 93/12",
+    "old_price": 225.37,
+    "new_price": 225.99,
+    "percentage_increase": 0.2751031636863844,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "ACP820",
+    "name": "FILTRO AR CABINE RENAULT DUSTER 2011.",
+    "old_price": 32.9,
+    "new_price": 32.99,
+    "percentage_increase": 0.27355623100304993,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "AC8232",
+    "name": "KIT BAT.+ COIFA FORD ECOSPORT/FIESTA 03...COMPLETO",
+    "old_price": 339.12,
+    "new_price": 339.9,
+    "percentage_increase": 0.23000707714082705,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "HF-700F",
+    "name": "DISCO DE FREIO HONDA CIVIC VENT. S/CUBO DT 1.4/1.8/2.0",
+    "old_price": 249.76,
+    "new_price": 249.99,
+    "percentage_increase": 0.09208840486868121,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "1239",
+    "name": "TENSOR PEUGEOT 206 8/16V - MAREA TURBO 2.0",
+    "old_price": 120,
+    "new_price": 119.99,
+    "percentage_increase": -0.008333333333337597,
+    "item_group": "Suporte Barra Tensora"
+  },
+  {
+    "fabrication_code": "HF-513",
+    "name": "DISCO DE FREIO TOYOTA ETIOS / YARIS HATCH E SEDAN",
+    "old_price": 280.48,
+    "new_price": 279.9,
+    "percentage_increase": -0.20678836280663182,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "ARL2203",
+    "name": "FILTRO AR COROLLA",
+    "old_price": 60.44,
+    "new_price": 59.99,
+    "percentage_increase": -0.7445400397087951,
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "HF-502",
+    "name": "DISCO DE FREIO TOYOTA COROLA / FILDER 1,6 -1.8 03/08",
+    "old_price": 181.47,
+    "new_price": 179.9,
+    "percentage_increase": -0.8651567752245513,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-823",
+    "name": "DISCO DE FREIO RENAULT TRAS.SOL.MEGANE 1.6/2.0 16V02>",
+    "old_price": 210,
+    "new_price": 205.9,
+    "percentage_increase": -1.9523809523809494,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "AC758",
+    "name": "KIT BAT.+ COIFA GM COBALT 11> ONIX DP",
+    "old_price": 71.41,
+    "new_price": 69.99,
+    "percentage_increase": -1.9885170144237525,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "BKR6E",
+    "name": "VELA DE IGNIÇÃO FIAT/CITROEN",
+    "old_price": 29.05,
+    "new_price": 28.46,
+    "percentage_increase": -2.0309810671256447,
+    "item_group": "Terminal Eletrico"
+  },
+  {
+    "fabrication_code": "S-2114",
+    "name": "PASTILHAS DE FREIO GM DIANT. COBALT/ONIX 1.4 -PD94",
+    "old_price": 144.9,
+    "new_price": 141.94,
+    "percentage_increase": -2.042788129744657,
+    "item_group": "Pastilhas"
+  },
+  {
+    "fabrication_code": "HF-38",
+    "name": "DISCO DE FREIO FIAT -PAR - PALIO 1.0 8/16V-WEEK 1.0 16V",
+    "old_price": 122.62,
+    "new_price": 119.9,
+    "percentage_increase": -2.218235198173217,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "V054",
+    "name": "TERMINAL AXIAL FORD RANGER 98/ DH - MACHO",
+    "old_price": 72,
+    "new_price": 69.99,
+    "percentage_increase": -2.791666666666674,
+    "item_group": "Terminal Direçao"
+  },
+  {
+    "fabrication_code": "27074",
+    "name": "AMORTECEDOR FIAT STILO TRAS. TDS",
+    "old_price": 258.45,
+    "new_price": 249.9,
+    "percentage_increase": -3.308183401044683,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "HF-18H",
+    "name": "DISCO DE FREIO HF-18H/FORD KA ARO 14 14 ...",
+    "old_price": 177.33,
+    "new_price": 169.9,
+    "percentage_increase": -4.189928382112449,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-30",
+    "name": "DISCO DE FREIO FIAT  TIPO/MAREA/BRAVA/PALIO/STRADA",
+    "old_price": 146.3,
+    "new_price": 139.9,
+    "percentage_increase": -4.374572795625431,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-23",
+    "name": "DISCO DE FREIO GM - PAR - CORSA WIND 1.0/1.4 DT.",
+    "old_price": 105.07,
+    "new_price": 99.9,
+    "percentage_increase": -4.920529171028827,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-31B",
+    "name": "DISCO DE FREIO FIAT DIANT.SOLIDO NOVO UNO 10>",
+    "old_price": 136.66,
+    "new_price": 129.9,
+    "percentage_increase": -4.946582760134635,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "AC851",
+    "name": "KIT BAT + COIFA DIANT. TOYOTA COROLLA 2015...",
+    "old_price": 121.87,
+    "new_price": 114.99,
+    "percentage_increase": -5.645359809633224,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC2976",
+    "name": "COXIM AMORTECEDOR DIANTEIRO HONDA NEWCIVIC",
+    "old_price": 138,
+    "new_price": 129.99,
+    "percentage_increase": -5.80434782608695,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "HF-325N",
+    "name": "DISCO DE FREIO HYUNDAI CRETA/SPORTAGE/IX35...",
+    "old_price": 390.18,
+    "new_price": 365.9,
+    "percentage_increase": -6.222768978420224,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-700",
+    "name": "DISCO DE FREIO DIANTEIRO HONDA CITY 1.5 16V/ CIVIC 1.6I 16V...",
+    "old_price": 224.19,
+    "new_price": 209.9,
+    "percentage_increase": -6.374057718899144,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-01",
+    "name": "DISCO DE FREIO VW - PAR - GOL 80/ PASSAT 74/",
+    "old_price": 85.81,
+    "new_price": 79.99,
+    "percentage_increase": -6.7824262906421255,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "HF-81",
+    "name": "DISCO DE FREIO VW GOLF 1.6I/1.6I 8V-99>01",
+    "old_price": 145.79,
+    "new_price": 135.9,
+    "percentage_increase": -6.783730022635289,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "30002DE",
+    "name": "SENSOR ABS VW:CROSSFOX/ FOX /GOL /SAVEIRO /AUDI A1/A2/A3/S3/TT DE",
+    "old_price": 105.34,
+    "new_price": 97.52,
+    "percentage_increase": -7.423580786026207,
+    "item_group": "SENSOR ABS"
+  },
+  {
+    "fabrication_code": "HF-751",
+    "name": "DISCO DE FREIO PEUGEOT TRAS. C4-PICASSO 2.0 SOL. 08>",
+    "old_price": 152,
+    "new_price": 139.9,
+    "percentage_increase": -7.960526315789469,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "AC3385",
+    "name": "COXIM AMORTECEDOR DIANTEIRO GM COLBALT/SPIN/ONIX/SONIC/PRISMA",
+    "old_price": 147.84,
+    "new_price": 135.99,
+    "percentage_increase": -8.015422077922075,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC3338",
+    "name": "BUCHA GM BANDEJA MERIVA/MONTANA",
+    "old_price": 52.99,
+    "new_price": 47.99,
+    "percentage_increase": -9.435742592942065,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC8934",
+    "name": "KIT BAT.+ COIFA +ROLAMENTO CITROEN DIANT. C3",
+    "old_price": 156.24,
+    "new_price": 139.99,
+    "percentage_increase": -10.400665642601126,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "HF-571A",
+    "name": "DISCO DE FREIO RENAULT CAPTUR/DUSTER/ DUSTER OROCH",
+    "old_price": 260.73,
+    "new_price": 229.99,
+    "percentage_increase": -11.789974302918731,
+    "item_group": "Discos de Freio"
+  },
+  {
+    "fabrication_code": "AC6738",
+    "name": "COIFA GM LADO RODA ONIX-PRIMA 1.0",
+    "old_price": 36.81,
+    "new_price": 31.99,
+    "percentage_increase": -13.094267861994032,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC2195",
+    "name": "BUCHA FIAT STILO - BANDEJA",
+    "old_price": 41,
+    "new_price": 34.99,
+    "percentage_increase": -14.65853658536585,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "SP008",
+    "name": "AMORTECEDOR FIAT PALIO ATTRATIVE",
+    "old_price": 507.55,
+    "new_price": 429.9,
+    "percentage_increase": -15.298985321643194,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "SP009",
+    "name": "AMORTECEDOR FIAT PALIO ATTRATIVE",
+    "old_price": 507.55,
+    "new_price": 429.9,
+    "percentage_increase": -15.298985321643194,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC8966D",
+    "name": "KIT BAT.+ COIFA HONDA CIVIC + COXIN LD",
+    "old_price": 287,
+    "new_price": 239.99,
+    "percentage_increase": -16.379790940766547,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC8226",
+    "name": "KIT BAT.+ COIFA FORD FIESTA C/ROLAMENTO E COXIM",
+    "old_price": 109.99,
+    "new_price": 89.99,
+    "percentage_increase": -18.183471224656788,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "SD6041",
+    "name": "BIELETA FIAT IDEA LE",
+    "old_price": 43.99,
+    "new_price": 35.99,
+    "percentage_increase": -18.185951352580133,
+    "item_group": "Bieletas"
+  },
+  {
+    "fabrication_code": "AC1502",
+    "name": "REPARO AMORTECEDOR COXIM DA SUSPENSÃO DIANTEIRA C/ROLAMENTO VW GOL/PARATI/SAVEIRO",
+    "old_price": 85.99,
+    "new_price": 69.99,
+    "percentage_increase": -18.60681474590069,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "SP822",
+    "name": "AMORTECEDOR CITROEN C3",
+    "old_price": 266.99,
+    "new_price": 216.99,
+    "percentage_increase": -18.72729315704708,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC4375",
+    "name": "COXIM AMORTECEDOR DIANTEIRO GM ONIX/ONIX PLUS 2019",
+    "old_price": 148.85,
+    "new_price": 119.9,
+    "percentage_increase": -19.449109842122937,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "19079",
+    "name": "BUCHA FIAT + SUP.TENS.DIANT ESQ.PALIO DH",
+    "old_price": 44.99,
+    "new_price": 35.99,
+    "percentage_increase": -20.004445432318292,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC5986",
+    "name": "BUCHA CITROEN C3 BAND.DINT.LD/LE VAZADA 03>",
+    "old_price": 45,
+    "new_price": 35.99,
+    "percentage_increase": -20.02222222222222,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC3910",
+    "name": "BUCHA CITROEN BARRA ESTAB C3",
+    "old_price": 28,
+    "new_price": 22,
+    "percentage_increase": -21.428571428571427,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "27942",
+    "name": "AMORTECEDOR FIAT -DT PALIO/SIENA / PRATO GRAND",
+    "old_price": 306.93,
+    "new_price": 239.99,
+    "percentage_increase": -21.80953311830059,
+    "item_group": "Amortecedores"
+  },
+  {
+    "fabrication_code": "AC975",
+    "name": "COXIM MOTOR ESQUERDO RENAULT CLIO",
+    "old_price": 130,
+    "new_price": 99.9,
+    "percentage_increase": -23.15384615384615,
+    "item_group": "Coxim Motor"
+  },
+  {
+    "fabrication_code": "AC5939",
+    "name": "BUCHA CENTRAL DO QUADRO SUSPENSÃO DIANTEIRA KIA SPORTAGE HYUNDAI IX35",
+    "old_price": 121,
+    "new_price": 92,
+    "percentage_increase": -23.96694214876033,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "ACP303",
+    "name": "FILTRO AR CABINE VW POLO/FOX 03> G5",
+    "old_price": 36.06,
+    "new_price": 26.99,
+    "percentage_increase": -25.152523571824748,
+    "item_group": "Filtro Ar Condicionado"
+  },
+  {
+    "fabrication_code": "PEL113",
+    "name": "FILTRO OLEO GM CAPITIVA",
+    "old_price": 77.99,
+    "new_price": 49.99,
+    "percentage_increase": -35.90203872291319,
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "AC2194",
+    "name": "BUCHA FIAT BABDEJA SUSP.DIANT.STILO",
+    "old_price": 64,
+    "new_price": 39.99,
+    "percentage_increase": -37.515625,
+    "item_group": "Buchas"
+  },
+  {
+    "fabrication_code": "AC5914",
+    "name": "COXIM SUSPENSÃO DIANTEIRA S/ROLAMENTO RENAULT CLIO/KANGOO",
+    "old_price": 81.99,
+    "new_price": 49.99,
+    "percentage_increase": -39.02914989632881,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC2247",
+    "name": "COXIM AMORTECEDOR DIANTEIRO FORD FIESTA /ECOSPORT",
+    "old_price": 89.99,
+    "new_price": 49.99,
+    "percentage_increase": -44.449383264807196,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "AC4302",
+    "name": "COXIM AMORTECEDOR DIANTEIRO GM CRUZER/TRACKER",
+    "old_price": 202.99,
+    "new_price": 109.9,
+    "percentage_increase": -45.859401940982316,
+    "item_group": "Coxim Amortecedor"
+  },
+  {
+    "fabrication_code": "VW/276",
+    "name": "SAPATA DE FREIO VW CROS FOX SPACE FOX 1.6 1.0",
+    "old_price": 127.99,
+    "new_price": 61.99,
+    "percentage_increase": -51.566528635049615,
+    "item_group": "Lona de Freio"
+  },
+  {
+    "fabrication_code": "AC8473",
+    "name": "KIT BAT.+ COIFA VW DIANT. FOX-POLO 02> DP",
+    "old_price": 312.35,
+    "new_price": 39.99,
+    "percentage_increase": -87.19705458620138,
+    "item_group": "Kit Coifa / Coifa"
+  },
+  {
+    "fabrication_code": "AC667",
+    "name": "BATENTE TOYOTA DIANT. COROLA",
+    "old_price": 0,
+    "new_price": 9.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Batentes"
+  },
+  {
+    "fabrication_code": "AX02697",
+    "name": "BIELETA NISSAN SENTRA 2006...",
+    "old_price": 0,
+    "new_price": 69.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Bieletas"
+  },
+  {
+    "fabrication_code": "ARL4148",
+    "name": "FILTRO AR KIA MOTORS SOUL 2009",
+    "old_price": 0,
+    "new_price": 72.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Filtro De Ar Motor"
+  },
+  {
+    "fabrication_code": "GU86",
+    "name": "FILTRO COMBUSTIVEL VW AUDI/PASSAT",
+    "old_price": 0,
+    "new_price": 8.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Filtro Combustivel"
+  },
+  {
+    "fabrication_code": "PSL322",
+    "name": "FILTRO OLEO KIA MOTORS BESTA 2.2 SPORTEGE",
+    "old_price": 0,
+    "new_price": 94.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Filtro Lubrificante"
+  },
+  {
+    "fabrication_code": "V605;680605",
+    "name": "TERMINAL AXIAL FIAT BRAVO",
+    "old_price": 0,
+    "new_price": 71.99,
+    "percentage_increase": "Novo preço indefinido",
+    "item_group": "Terminal Direçao"
+  }
+]
